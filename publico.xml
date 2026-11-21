@@ -1,0 +1,535 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Público</title>
+    <link>https://mvqz86.github.io/lectura/publico.xml</link>
+    <description>Público - feed con texto completo generado por rssapp</description>
+    <atom:link href="https://mvqz86.github.io/lectura/publico.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>rssapp</generator>
+    <language>es-AR</language>
+    <lastBuildDate>Sat, 21 Nov 2026 21:03:29 +0000</lastBuildDate>
+    <item>
+      <title>Última hora de la campaña electoral, en directo | Sánchez anuncia la prórroga del impuesto a la banca hasta 2027, cuya recaudación irá a vivienda</title>
+      <link>https://www.publico.es/politica/sigue-directo-ultima-hora-campana-electoral-29n.html</link>
+      <description>Los candidatos afrontan el noveno día de campaña, y último fin de semana antes del 29N.</description>
+      <content:encoded><![CDATA[<html>
+  <body>
+    <h1>Última hora de la campaña electoral, en directo | Sánchez anuncia la prórroga del impuesto a la banca hasta 2027, cuya recaudación irá a vivienda</h1>
+    <p>Madrid--Actualizado a</p>
+    <p>Los candidatos afrontan el noveno día de campaña, y último fin de semana antes del 29N. Pedro Sánchez estará en Tenerife y Gran Canaria, coincidiendo con la crisis migratoria, mientras Alberto Núñez Feijóo irá a València. Santiago Abascal visitará Sevilla y Alacant y Ada Colau participará en un gran acto de campaña en Barcelona con la exlíder de Sumar Yolanda Díaz. Este viernes, tras el cara a cara entre los líderes de PSOE y Partido Popular, el socialista acusó al conservador de<a href="https://www.publico.es/politica/ultima-hora-campana-electoral-29n-directo-4.html"> quedar retratado en el debate</a> ya que "no tiene nada que ofrecer a los ciudadanos", solo "insultos y bulos".</p>
+    <h2>Los españoles en el extranjero pueden votar hasta el 26 de noviembre en los consulados</h2>
+    <p>Los españoles residentes en el extranjero inscritos en el Censo Electoral de Residentes Ausentes (CERA) pueden votar presencialmente a las elecciones generales del 29N en los consulados de España desde este sábado y hasta el próximo 26 de noviembre.</p>
+    <p>Todos los electores que consten en el registro CERA se pueden descargar las papeletas con las candidaturas y votar en urna, hasta el 26 de noviembre, o remitir su voto por correo a la oficina consular no más tarde del día 24 de este mes.</p>
+    <p>El censo total de los residentes en el exterior para el 29N, tal como recoge el INE, asciende a 2.776.645 personas, incluidos todos los nacionalizados al amparo de la ley de nietos, aunque sólo podrán votar las 901 que pudieron acreditar su condición de exiliados.</p>
+    <h2>Sánchez anuncia la prórroga del impuesto a la banca para 2027 y la recaudación irá a vivienda</h2>
+    <p>El presidente del Gobierno y candidato socialista, Pedro Sánchez, ha anunciado este sábado que el Consejo de Ministros aprobará el próximo martes la prórroga del impuesto a la banca hasta 2027 y ha detallado que la recaudación irá a políticas de <a href="https://www.publico.es/tag/vivienda">vivienda</a>.</p>
+    <p>En una entrevista en Onda Cero, Sánchez ha dicho que la recaudación de este impuesto irá destinado "íntegramente" a políticas de vivienda y que, si consigue revalidar el Gobierno tras el 29N, se mantendrá durante toda la legislatura.</p>
+    <p>El impuesto acababa este 2026 y con la prórroga el Ejecutivo pretende recaudar 1.400 millones de euros que se utilizarán para construir vivienda protegida, dar bonificaciones fiscales a inquilinos y rehabilitar viviendas.</p>
+    <h2>Sánchez visita Canarias y Colau participa en un mitin con Yolanda Díaz</h2>
+    <p>Los candidatos afrontan el noveno día de campaña, y último fin de semana antes del 29N. Pedro Sánchez estará en Tenerife y Gran Canaria, coincidiendo con la crisis migratoria, mientras Alberto Núñez Feijóo irá a València. Santiago Abascal visitará Sevilla y Alacant y Ada Colau participará en un gran acto de campaña en Barcelona con la exlíder de Sumar Yolanda Díaz.</p>
+    <p>El PSOE realizará dos actos de campaña en las islas, que se celebran tras las visitas de Feijóo y Abascal esta semana por la <a href="https://www.publico.es/sociedad/migracion/canarias-bate-record-diario-llegadas-hay-detras-repunte-ruta-migratoria.html">crisis migratoria</a>, mientras que Colau recupera nuevamente la figura de Yolanda Díaz, tras el acto en Madrid sobre vivienda el pasado lunes, pero esta vez para un mitin que busca movilizar el voto.</p>
+  </body>
+</html>]]></content:encoded>
+      <guid isPermaLink="false">42db47c3e828533351f489f61ea47872825ca845</guid>
+      <enclosure url="https://www.publico.es/files/og_thumbnail/uploads/2026/11/21/6b01563a68738.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Un matemático de Anthropic asegura haber resuelto el problema de cálculo más famoso con IA</title>
+      <link>https://www.publico.es/ciencias/tecnologia/matematico-anthropic-asegura-haber-resuelto-problema-calculo-famoso-ia.html</link>
+      <description>El investigador, el Dr. Levent Alpöge, sostiene que Claude desempeñó un papel decisivo en la elaboración de la prueba, cuyo código informático ha facilitado para respaldar el hallazgo....</description>
+      <content:encoded><![CDATA[<html>
+  <body>
+    <h1>Un matemático de Anthropic asegura haber resuelto el problema de cálculo más famoso con IA</h1>
+    <p>El investigador, el Dr. Levent Alpöge, sostiene que Claude desempeñó un papel decisivo en la elaboración de la prueba, cuyo código informático ha facilitado para respaldar el hallazgo.</p>
+    <p>Un matemático de la empresa tecnológica Anthropic aseguró este viernes haber descifrado la hipótesis de Riemann, considerado como uno de los problemas sin resolver más importante de las matemáticas, con la ayuda del sistema de <a href="https://www.publico.es/tag/temas-inteligencia-artificial?tagTypeSlug=especial-papel">Inteligencia Artificial</a> (IA) Claude.</p>
+    <p>El Dr. Levent Alpöge, empleado de la empresa de IA, publicó un comunicado de cuatro páginas afirmando haber completado una demostración de la hipótesis en colaboración con Claude, el sistema de inteligencia artificial de Anthropic.</p>
+    <p>"Claude y yo hemos disfrutado de momentos maravillosos juntos en los últimos meses, pero esta vez Claude me superó con creces cerca de la meta. No, Claude voló, bailó y se lució llegando a la meta", dijo Alpöge en la publicación.</p>
+    <p>El matemático proporcionó además un enlace a un código informático que supuestamente verificaba el resultado.</p>
+    <p>De confirmarse, se resolvería uno de los mayores enigmas de las matemáticas modernas y se sumaría a una lista creciente de avances hechos con la ayuda de la IA en campos como la biología, la física y la computación.</p>
+    <p>El anuncio llega en medio del debate sobre el avance de la IA en las matemáticas. En junio pasado, la Unión Matemática Internacional respaldó una declaración que alertaba sobre los riesgos de validar demostraciones generadas por estos sistemas sin una revisión independiente y rigurosa.</p>
+    <p>La hipótesis de Riemann, formulada en 1859 por Bernhard Riemann, aborda la distribución de los ceros no triviales de la función zeta y sigue siendo uno de los problemas abiertos más célebres de la teoría de números.</p>
+  </body>
+</html>]]></content:encoded>
+      <guid isPermaLink="false">5ee6f877a4d199db78ac1bfcaf10a18c0004058c</guid>
+      <enclosure url="https://www.publico.es/files/og_thumbnail/uploads/2026/06/05/6a22a57cd37bc.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump no permitirá que las empresas de EEUU construyan centros de datos en el extranjero</title>
+      <link>https://www.publico.es/internacional/eeuu/trump-permitira-empresas-eeuu-construyan-centros-datos-extranjero.html</link>
+      <description>El presidente sostiene que la deslocalización de industrias como la de los semiconductores ha debilitado la posición económica del país y quiere evitar que se repita con las infraestructuras de int...</description>
+      <content:encoded><![CDATA[<html>
+  <body>
+    <h1>Trump no permitirá que las empresas de EEUU construyan centros de datos en el extranjero</h1>
+    <p>El presidente sostiene que la deslocalización de industrias como la de los semiconductores ha debilitado la posición económica del país y quiere evitar que se repita con las infraestructuras de inteligencia artificial.</p>
+    <p>El presidente de <a href="https://www.publico.es/tag/estados-unidos">Estados Unidos</a>, <a href="https://www.publico.es/tag/donald-trump">Donald Trump</a>, defendió este viernes que las empresas tecnológicas construyan sus centros de datos dentro del país, al tiempo que advirtió de que su Gobierno no permitirá que estas compañías desarrollen esas infraestructuras en el extranjero, al considerar que el traslado de industrias estratégicas ha perjudicado la competitividad estadounidense.</p>
+    <p>"No vamos a permitir que nuestras empresas construyan centros de datos fuera de nuestro país", afirmó Trump -durante una rueda de prensa en la Casa Blanca-.</p>
+    <p>El mandatario comparó esta situación con lo ocurrido con la fabricación de chips y otras industrias que, según dijo, se trasladaron al extranjero y provocaron que Estados Unidos comenzara a quedarse atrás.</p>
+    <p>El jefe de Estado también elogió al secretario de Comercio, Howard Lutnick, a quien describió como "un excelente hombre de negocios, un empresario nato", y destacó su papel en la operación por la que el Gobierno estadounidense adquirió acciones del fabricante de semiconductores Intel.</p>
+    <p>Las declaraciones se producen en un momento en que Lutnick afronta críticas de legisladores y otros sectores por la demora en sancionar a Megaspeed, una empresa tecnológica vinculada al escándalo de Nvidia, y en establecer normas más estrictas sobre el acceso de China a centros de datos en el extranjero.</p>
+    <p>Al mismo tiempo, las opiniones de Trump llegan tras su viaje a <a href="https://www.publico.es/tag/china">China</a>, donde se reunió con el presidente <a href="https://www.publico.es/tag/xi-jinping">Xi Jinping</a>, y en medio de una creciente controversia en Estados Unidos por la expansión de los centros de datos vinculados a la inteligencia artificial.</p>
+    <p>Las instalaciones han generado oposición en numerosas comunidades por su elevado consumo eléctrico y de agua, el impacto en las facturas de los hogares y sus efectos ambientales.</p>
+    <p>En las elecciones de medio mandato, del pasado 3 de noviembre, votantes de al menos 38 jurisdicciones rechazaron o aprobaron restricciones a proyectos de este tipo.</p>
+  </body>
+</html>]]></content:encoded>
+      <guid isPermaLink="false">b2487275a179227af37c247057515d0833926f6c</guid>
+      <enclosure url="https://www.publico.es/files/og_thumbnail/uploads/2026/11/20/6b002b74b9346.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canarias pide al Estado apoyo financiero para acoger y agilizar el traslado de los menores migrantes</title>
+      <link>https://www.publico.es/sociedad/migracion/canarias-pide-apoyo-financiero-acoger-agilizar-traslado-menores-migrantes.html</link>
+      <description>El archipiélago tiene bajo su tutela a cerca de 3.400 menores y busca evitar que la presión asistencial obligue a recuperar instalaciones habilitadas durante anteriores crisis migratorias....</description>
+      <content:encoded><![CDATA[<html>
+  <body>
+    <h1>Canarias pide al Estado apoyo financiero para acoger y agilizar el traslado de los menores migrantes</h1>
+    <ul>
+      <li>
+        <p>El archipiélago tiene bajo su tutela a cerca de 3.400 menores y busca evitar que la presión asistencial obligue a recuperar instalaciones habilitadas durante anteriores crisis migratorias.</p>
+      </li>
+      <li>
+        <p>Salvamento Marítimo y la Guardia Civil localizan un cayuco con 67 migrantes en aguas próximas a La Restringa y los traslada a El Hierro.</p>
+      </li>
+    </ul>
+    <p>La consejera canaria de Bienestar Social, Candelaria Delgado, ha reiterado al secretario de Estado de Juventud e Infancia, Rubén Pérez, la necesidad de contar con financiación para acoger menores migrantes y agilizar su traslado a territorio peninsular, y así evitar "situaciones vividas en años anteriores".</p>
+    <p>Candelaria Delgado y Rubén Pérez mantuvieron un encuentro en el Seminario Diocesano de Tenerife, en La Laguna, que ha sido habilitado nuevamente, desde el pasado miércoles como centro de acogida temporal para menores migrantes no acompañados y en el que en estos momentos hay 177 jóvenes, la mayoría trasladados desde <a href="https://www.publico.es/tag/el-hierro">El Hierro</a>.</p>
+    <p>La consejera de Bienestar Social expuso la situación de la Comunidad Autónoma, con casi 3.400 menores tutelados e incidió en las medidas que hay que seguir implementando para poder seguir con las derivaciones del artículo 5 de la Ley de Extranjería con el fin de no reabrir los centros de menores que se habilitaron durante la crisis migratoria, según ha informado el Gobierno regional en una nota.</p>
+    <p>En este sentido, solicitó también “colaboración para reforzar los equipos de las subdelegaciones de Gobierno para poder agilizar la realización de los expedientes para el traslado de los menores”.</p>
+    <p>Asimismo, apostó por la implementación de la figura del Defensor del Menor con el fin de garantizar aún más los derechos de los menores.</p>
+    <p>Candelaria Delgado destacó que la colaboración entre el Gobierno central, en especial del Ministerio de Infancia, y el Ejecutivo canario ha permitido sacar adelante muchas cuestiones, incluso normativas y abogó por “seguir avanzando en la vía del diálogo como objetivo también con otras comunidades autónomas, poniendo fin a las trabas burocráticas para el traslado de menores”.</p>
+    <p>Por su parte, Rubén Pérez señaló que "esta legislatura ha estado marcada fundamentalmente por las cuestiones relacionadas con las llegadas a territorios de frontera" y afirmó que desde el Gobierno central han "intentado buscar un instrumento permanente que pudiera ayudar tanto a <a href="https://www.publico.es/tag/islas-canarias">Canarias </a>como a <a href="https://www.publico.es/tag/ceuta">Ceuta</a> y <a href="https://www.publico.es/tag/melilla">Melilla</a> y responder como Gobierno en todas aquellas cuestiones que legítimamente" estaba reclamando el Ejecutivo canario.</p>
+    <h2>Un cayuco con 67 migrantes próximo a La Restringa</h2>
+    <p><a href="https://www.publico.es/tag/salvamento-maritimo">Salvamento Marítimo</a> y Guardia Civil han localizado a primera hora de este sábado un cayuco que transportaba a 67 migrantes subsaharianos, entre los que había cinco mujeres y cuatro menores de edad, a quienes trasladó hasta la isla de El Hierro.</p>
+    <p>Según ha informado el organismo estatal, fue sobre las 08.00 horas cuando la Benemérita avisó de que había detectado dos ecos en el radar en aguas próximas a La Restinga que podrían corresponder con una embarcación con migrantes.</p>
+    <p>Por ello, el Centro de Coordinación de Salvamento (CCS) de Tenerife movilizó a la patrullera Río Tajo de la Guardia Civil y a la Salvamar Navia.</p>
+    <p>Ambos recursos comprobaron que el primer eco era una falsa alarma pero siguiendo el rastro del segundo avistaron un cayuco a las 08.50 horas que fue escoltado hasta el Muelle de La Restinga, donde atracaron sobre las 09.40 horas.</p>
+  </body>
+</html>]]></content:encoded>
+      <guid isPermaLink="false">37df478a24f49ca76adc7849e5df0dd523e82999</guid>
+      <enclosure url="https://www.publico.es/files/og_thumbnail/uploads/2025/09/05/68bad2ed3b91c.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El Ayuntamiento de Getafe impide el desalojo de los docentes encerrados en dos colegios públicos</title>
+      <link>https://www.publico.es/sociedad/educacion/ayuntamiento-getafe-impide-desalojo-docentes-encerrados-dos-colegios-publicos.html</link>
+      <description>La Comunidad de Madrid ha puesto fin a la protesta que se desarrollaba en el IES León Felipe, cuyos participantes se han trasladado al colegio Miguel Hernández para mantener la movilización....</description>
+      <content:encoded><![CDATA[<html>
+  <body>
+    <h1>El Ayuntamiento de Getafe impide el desalojo de los docentes encerrados en dos colegios públicos</h1>
+    <p>La Comunidad de Madrid ha puesto fin a la protesta que se desarrollaba en el IES León Felipe, cuyos participantes se han trasladado al colegio Miguel Hernández para mantener la movilización.</p>
+    <p>El Gobierno local de <a href="https://www.publico.es/tag/getafe">Getafe </a>ha impedido el desalojo de los encierros en dos colegios públicos de la ciudad, mientras la Comunidad de Madrid ha puesto fin al que se desarrollaba en el IES León Felipe, en el marco de las movilizaciones por la educación pública.</p>
+    <p>Los encierros se iniciaron durante esta pasada noche en los colegios María Blanchard y Miguel Hernández y en el instituto León Felipe del municipio.</p>
+    <p>Tras abandonar este último centro, los docentes desalojados se han trasladado al Miguel Hernández para continuar con la protesta. El Gobierno local ha rechazado la orden en los colegios de titularidad municipal y ha reiterado su apoyo a la huelga educativa.</p>
+    <p>La movilización busca que la consejera de Educación, Mercedes Zarzalejo, negocie con el comité de huelga, que mantiene paros indefinidos desde el 14 de octubre.</p>
+    <p>La concejal de Educación, Ángeles García, ha acusado a la presidenta regional, <a href="https://www.publico.es/tag/isabel-diaz-ayuso">Isabel Díaz Ayuso</a>, de responder con "autoritarismo y desalojos" a las reivindicaciones del profesorado.</p>
+    <p>"En Getafe lo tenemos claro, nuestros colegios son de la ciudad y nunca vamos a permitir que se amedrente ni se desaloje a los docentes y las familias que luchan por una educación digna", ha defendido.</p>
+    <p>La huelga reclama una reducción del horario lectivo y de las ratios de alumnos por aula, mejoras salariales, menos carga burocrática y la cobertura de las bajas médicas.</p>
+    <p>Las movilizaciones continúan este sábado con actividades de apoyo a la huelga en los colegios públicos María Blanchard y Tierno Galván.</p>
+  </body>
+</html>]]></content:encoded>
+      <guid isPermaLink="false">4bfe1f986ab3dfa5ea1a78adfe0d4f78fd01663a</guid>
+      <enclosure url="https://www.publico.es/files/og_thumbnail/uploads/2026/11/21/6b017c4cd88eb.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Costa propone recortar el presupuesto europeo para 2028-2034 hasta el 10%</title>
+      <link>https://www.publico.es/internacional/europa/costa-propone-recortar-presupuesto-europeo-2028-2034-10.html</link>
+      <description>La iniciativa sitúa las cuentas comunitarias en 1,58 billones de euros, frente a los 1,76 billones contemplados inicialmente por la Comisión Europea, en precios constantes de 2025....</description>
+      <content:encoded><![CDATA[<html>
+  <body>
+    <h1>Costa propone recortar el presupuesto europeo para 2028-2034 hasta el 10%</h1>
+    <p>La iniciativa sitúa las cuentas comunitarias en 1,58 billones de euros, frente a los 1,76 billones contemplados inicialmente por la Comisión Europea, en precios constantes de 2025.</p>
+    <p>El presidente del Consejo Europeo, <a href="https://www.publico.es/tag/antonio-costa">António Costa</a>, propuso este sábado un recorte de 180.540 millones de euros en el presupuesto del bloque comunitario para el período de 2028-2034, lo que supondría un 10,24% menos que la propuesta inicial de la Comisión Europea.</p>
+    <p>La nueva propuesta establece el presupuesto europeo en 1,58 billones de euros, frente a las cuentas de la Comisión que se situaban en 1,76 billones en precios constantes de 2025, y reduciría tanto la partida para los nuevos planes nacionales —que absorben las ayudas de la Política Agrícola Común (<a href="https://www.publico.es/tag/pac">PAC</a>) y de la Política de Cohesión— así como el Fondo Europeo de Competitividad.</p>
+    <p>(Habrá ampliación)</p>
+  </body>
+</html>]]></content:encoded>
+      <guid isPermaLink="false">56cd9fdadcebe367b6aae27a05ace7b0a4ae7c05</guid>
+      <enclosure url="https://www.publico.es/files/og_thumbnail/uploads/2026/11/21/6b0177d8c6405.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sánchez anuncia la prórroga del impuesto a la banca para 2027 y asegura que la recaudación irá a vivienda</title>
+      <link>https://www.publico.es/politica/gobierno/sanchez-anuncia-prorroga-impuesto-banca-2027-asegura-recaudacion-ira-vivienda.html</link>
+      <description>La tasa acababa este 2026 y con la prórroga el Ejecutivo pretende recaudar 1.400 millones de euros que se utilizarán para construir vivienda protegida y dar bonificaciones fiscales a inquilinos....</description>
+      <content:encoded><![CDATA[<html>
+  <body>
+    <h1>Sánchez anuncia la prórroga del impuesto a la banca para 2027 y asegura que la recaudación irá a vivienda</h1>
+    <p>La tasa acababa este 2026 y con la prórroga el Ejecutivo pretende recaudar 1.400 millones de euros que se utilizarán para construir vivienda protegida y dar bonificaciones fiscales a inquilinos.</p>
+    <p>El presidente del <a href="https://www.publico.es/tag/gobierno-de-espana">Gobierno </a>y candidato socialista, Pedro Sánchez, ha anunciado este sábado que el Consejo de Ministros aprobará el próximo martes la prórroga del impuesto a la banca hasta 2027 y ha detallado que la recaudación irá a políticas de vivienda.</p>
+    <p>En una entrevista en Onda Cero recogida, Sánchez ha dicho que la recaudación de este impuesto irá destinado "íntegramente" a políticas de vivienda y que, si consigue revalidar el Gobierno tras el 29N, se mantendrá durante toda la legislatura.</p>
+    <p>Sánchez ha defendido que tiene "todo el sentido" si se tiene en cuenta que la vivienda es la principal preocupación de los españoles.</p>
+    <p>El impuesto acababa este 2026 y con la prórroga el Ejecutivo pretende recaudar 1.400 millones de euros que se utilizarán para construir vivienda protegida, dar bonificaciones fiscales a inquilinos y rehabilitar viviendas.</p>
+    <p>"No creo que la banca española tenga motivos para quejarse, cuando uno mira cuentas de resultados ve que, entre otros sectores, la banca ha ganado su dinero con este Gobierno socialcomunista que dicen algunos de la derecha", ha dicho el presidente.</p>
+    <p>Fuentes de <a href="https://www.publico.es/tag/moncloa">Moncloa </a>han precisado que con los impuestos se podría financiar la construcción de más de 6.000 viviendas asequibles, rehabilitar 52.000 y aplicar bonificaciones fiscales a casi 120.000 inquilinos durante la próxima legislatura.</p>
+  </body>
+</html>]]></content:encoded>
+      <guid isPermaLink="false">056cd33b172f5f25124dba197a0a78096df4f5e7</guid>
+      <enclosure url="https://www.publico.es/files/og_thumbnail/uploads/2026/11/21/6b018f3f5f148.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Colau reclama a Feijóo que "deje de disfrazarse de gestor" porque su agenda "la marca Vox"</title>
+      <link>https://www.publico.es/politica/colau-reclama-feijoo-deje-disfrazarse-gestor-agenda-marca-vox.html</link>
+      <description>"Tengo muchas ganas del debate a cuatro para poner algunas cosas en su lugar", ha confesado la catalana durante el acto central del Frente Amplio, advirtiendo a Feijóo de que le van a "congelar" la...</description>
+      <content:encoded><![CDATA[<html>
+  <body>
+    <h1>Colau reclama a Feijóo que "deje de disfrazarse de gestor" porque su agenda "la marca Vox"</h1>
+    <p>"Tengo muchas ganas del debate a cuatro para poner algunas cosas en su lugar", ha confesado la catalana durante el acto central del Frente Amplio, advirtiendo a Feijóo de que le van a "congelar" la sonrisa que se le quedó tras el cara a cara "dando la vuelta a las encuestas".</p>
+    <p>Este sábado, el Parc de Sant Martí, en Barcelona, ha amanecido teñido de naranja. Acompañados por unas 2.500 personas —según los propios organizadores— y al son del Niño de la Hipoteca, el Frente Amplio ha celebrado <a href="https://www.publico.es/politica/colau-advierte-sanchez-siguiente-gobierno-progresista-sera-especulacion-sera.html">su acto central de campaña</a>, con la mirilla puesta las urnas del próximo domingo 29 de noviembre. Durante el mitin político, presidido por la candidata de la coalición, Ada Colau, ha participado, como anfitrión, el candidato a la alcaldía de Barcelona, Gerardo Pisarello, además de la ministra de Trabajo, Yolanda Díaz; el ministro de Cultura y número dos por la ciudad condal, Ernest Urtasun, y el número uno por Madrid y compañero de ticket de Colau, Emilio Delgado.</p>
+    <p>"Qué alegría volver a casa", ha tomado la palabra, ya sobre el escenario, la presidenciable de la coalición, Ada Colau, reivindicando "otra manera" de hacer política: "Con una sonrisa en la cara y con la alegría de vivir como objetivo". La mejor energía, ha defendido, con la que desafiar, "todas juntas", al "miedo y tristeza" que intentan imponer <a href="https://www.publico.es/politica/feijoo-interrumpe-40-veces-sanchez-presenta-alguien-roba-miente.html">el bloque de las derechas, PP y Vox</a>. "La responsabilidad de ser la primera mujer catalana candidata a la presidencia del Gobierno es enorme", ha confesado Colau, tirando, una vez más, de su lema habitual de campaña: "Fora especuladors dels nostres barris". "Es un orgullo haber comenzado todos los mitins en catalán", ha reivindicado la exalcaldesa de Barcelona, subrayando que, si fuera por PP y Vox, las lenguas cooficiales se quedarían <a href="https://www.europapress.es/nacional/noticia-alvarez-toledo-propone-eliminar-pinganillos-traduccion-lenguas-cooficiales-congreso-20261105101634.html">fuera del Congreso</a>. En este punto, la catalana se ha dirigido a la marea verde. "Gracias a la por defender la escuela pública", les ha reconocido, comprometiéndose a subirle los impuestos "a los ricos" para garantizar una educación "pública, de calidad y gratuita" y reivindicando como "una obligación" el derecho a la huelga.</p>
+    <p><a href="https://www.publico.es/politica/cara-cara-mete-presion-izquierdas-quieren-remontar-nueve-dias.html">el cara a cara del pasado jueves</a> entre Pedro Sánchez y Alberto Núñez Feijóo, Colau ha tachado de "duro" que una de las partes —Sánchez— "se resignara y rindiera" frente a las "mentiras y manipulaciones" de la derecha. "Tengo muchas ganas del debate a cuatro para poner algunas cosas en su lugar", ha citado al patio de butacas <a href="https://www.eldiario.es/politica/debate-sanchez-feijoo-directo-ultima-hora-cara-cara-electoral_6_13678432_1126699.html">al debate del próximo jueves</a>. Dos días antes, el martes, la candidata del Frente Amplio tiene otra cita: un cara a cara con el portavoz de vivienda del PP, Xabier García Albiol. Precisamente sobre vivienda, la catalana ha lanzado una pregunta al presidente popular: "¿Está pensando en hacer un millón de viviendas públicas o quiere aplicar única fórmula única del PP en décadas: liberalizar el suelo y regalarle nuestros barrios a los fondos buitre?". Frente a ello, se ha comprometido la candidata, el Frente Amplio pondrá poner pie en pared contra la especulación —"las casas son para vivir"—, expropiará a los fondos buitre y <a href="https://www.publico.es/politica/colau-propone-salarios-suban-ley-ritmo-inflacion.html">bajará unos precios</a> que Colau ha tachado de "inaceptables".</p>
+    <p>Ahondando en las críticas al cara a cara, la catalana ha denunciado que, en la hora y 45 minutos que duró el debate, ninguno de los dos candidatos se refiriera al crimen machista que se había cometido, ese mismo día, en Parla (Madrid). "En lo que llevamos de 2026, van 46 mujeres asesinadas por violencia machista", ha recordado Colau, comprometiéndose a darle "el tiempo que le corresponde" en el próximo debate a cuatro. En respuesta al triunfalismo del PP tras el debate, la catalana se ha vuelto a dirigir a Feijóo, esta vez en castellano: "Esa sonrisa le va a durar poco. Como en 2023, se la vamos a congelar <a href="https://www.publico.es/politica/partidos/final-campana-llega-psoe-alza-pero-mayoria-formar-gobierno-frente-pp-vox.html">dándole la vuelta a las encuestas</a>". Entonces, ha rebobinado el tiempo Colau, "dijo que no era presidente porque no quería". Esta vez, ha matizado la candidata, "no lo será porque la mayoría social irá a desbordará las urnas y le pondrá en su sitio". Un mar de votos con el que el Frente Amplio revalidará un gobierno progresista "que haga avanzar y no retroceder". "Que deje de disfrazarse de gestor", ha terminado de interpelar al presidente popular, reprochándole que "su agenda la marca Vox".</p>
+    <p>No han faltados las críticas al PSOE. "Tuvieron que surgir otras formaciones políticas para recordarles la O —de "obrero"— de sus siglas", ha reprochado Colau a los socialistas, haciendo un repaso a la historia de <a href="https://www.publico.es/economia/vivienda/vida-encima-beneficio-protestas-extienden-europa-impulsadas-sindicato-inquilinas.html">la lucha de los movimientos sociales</a> contra los desahucios y por el derecho a la vivienda. A los de Pedro Sánchez, ha defendido la catalana, les faltan tres ingredientes: "Imaginación política, valentía y acordarse de que están en las instituciones para servir a la gente común". Una mayoría social a la que Colau ha llamado a organizarse y acudir "en masa" a votar. La cosa va de números, ha desgranado la catalana. Garamendi, <a href="https://www.publico.es/economia/garamendi-reelegido-presidente-ceoe-proximos-cuatro-anos.html">el presidente de la CEOE</a>, "tiene un único voto". Los milmillonarios, ha seguido haciendo cuentas, "tienen 33 votos". Y los patrimonios de más de un millón de euros, ha completado la suma, "unos 260.000 votos". "No tienen nada que hacer con los millones que somos si desbordamos las urnas", ha sentenciado.</p>
+    <h2>Una Barcelona antifascista</h2>
+    <p>Las palabras de bienvenida han corrido a cargo del dirigente de Comuns y candidato a la alcaldía de Barcelona, Gerardo Pisarello, que ha arrancado recordando el aniversario de la muerte de Franco y reivindicando el ADN antifascista de la ciudad condal. "<a href="https://www.publico.es/politica/documentos-sobre-exhumacion-franco-interes-publico-evidente-golpe-23f-pandemia-covid.html">Un 21 de noviembre</a>, hace 51 años, miles de personas en toda España celebraban la muerte del dictador más corrupto, mal parido y miserable de toda Europa", ha echado la mirada hacia atrás Pisarello, citando a Rafael Alberti: "¡A galopar, a galopar, hasta enterrarlos en el mar!". El Frente Amplio, se ha comprometido el que fuera diputado, plantará cara al tándem de derechas "en el Gobierno, el parlamento y en la calle" para evitar "por todos los medios" que Feijóo y Abascal se hagan con las llaves de la Moncloa y "arrasen con nuestras libertades y derechos".</p>
+    <p>A Pisarello le ha tomado la palabra la vicepresidenta y ministra de Trabajo, Yolanda Díaz, que, tras abandonar la carrera para dirigir la OIT, ha entrado de lleno, este sábado, en la campaña del Frente Amplio. "Estas elecciones, no va de sacar el mejor resultado, van de ganar para que la gente trabajadora pueda vivir mejor", se ha lanzado a hablar la gallega, poniendo deberes a la próxima legislatura: <a href="https://www.publico.es/politica/e-empleo.html">la reducción de la jornada laboral</a> y la aprobación de una prestación universal por crianza. "El cambio en España", ha sacado pecho Díaz, "lo hemos empezado nosotros y nosotras —Sumar— desde el Gobierno de España". La subida del SMI, la ampliación de los permisos por nacimiento o la reforma laboral, ha enumerado algunos de los "hitos" de los últimos años de gobiernos progresistas. "España hoy tiene casi 23 millones de personas trabajadoras", ha seguido presumiendo de números, reclamando el voto para "seguir ganando derechos laborales".</p>
+    <p>Turno del altavoz de Más Madrid, Emilio Delgado. Estas elecciones, se ha puesto serio el madrileño, "son las más importantes de los últimos 50 años". En las primeras elecciones democráticas, allá por 1977, España se jugaba el "derecho a empezar una vida nueva y a levantar la democracia". En las del próximo 29 de noviembre, ha completado Delgado, se juega "el derecho a continuar ese legado o <a href="https://www.publico.es/politica/pp-vuelve-hablar-eta-campana-electoral-15-anos-despues-dejara-armas.html">que nos lo roben</a>". Para el madrileño, la clave para revertir la "creciente" desigualdad está en devolvérsela a su "legítimo dueño": la clase trabajadora. "Cuanto más se queda atrapada la riqueza por arriba, más atrapado se quedan los de abajo", ha denunciado el número uno por Madrid, llamando a "usar la motosierra" contra ese 1% que "se queda con todo": "Todo para los de abajo, nada para los de arriba". Las derechas, ha criticado Delgado, "nos quieren atrapar en la telaraña del todos contra todos": los migrantes <a href="https://www.publico.es/politica/gobierno/gobierno-acuerda-tramitacion-urgente-decreto-revalorizar-pensiones.html">contra los pensionistas</a>; los pensionistas contra los jóvenes; los jóvenes contra los funcionarios y los funcionarios contra los autónomos. Una "corriente" que el madrileño ha pedido romper uniendo a los trabajadores de los pueblos de España: "Todos juntos contra ellos".</p>
+  </body>
+</html>]]></content:encoded>
+      <guid isPermaLink="false">f0bd51433077d4f798dd75cb4ab3d34708e0f204</guid>
+      <enclosure url="https://www.publico.es/files/og_thumbnail/files/fp/uploads/2026/11/21/6b0198b549c4a.r_d.614-438-0.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cientos de personas se manifiestan en Madrid para pedir una ley de residencias con "plazas públicas"</title>
+      <link>https://www.publico.es/sociedad/cientos-personas-manifiestan-madrid-pedir-ley-residencias-plazas-publicas.html</link>
+      <description>La portavoz socialista en el Ayuntamiento, Reyes Maroto, se ha sumado a la marcha y ha criticado el plan 40-40 de Isabel Díaz Ayuso, al que acusa de favorecer los intereses privados....</description>
+      <content:encoded><![CDATA[<html>
+  <body>
+    <h1>Cientos de personas se manifiestan en Madrid para pedir una ley de residencias con "plazas públicas"</h1>
+    <p>Reclaman justicia por "las 7.291 personas mayores que murieron en estos centros durante la pandemia".</p>
+    <p>Cientos de personas se han movilizado un año más este sábado desde la Plaza de Cibeles hasta la <a href="https://www.publico.es/tag/puerta-del-sol">Puerta del Sol</a> para pedir una ley de residencias que garanticen "plazas 100% públicas" y pedir justicia por "las 7.291 personas mayores que murieron en las residencias durante la pandemia".</p>
+    <p>La protesta, que ha sido convocada por Marea de Residencias, ha comenzado a las 12 horas desde Cibeles al grito de "7291" y al ritmo de una batucada, para honrar la memoria de los fallecidos en residencias durante la primera ola de la pandemia en 2020.</p>
+    <p>Durante la protesta, los manifestantes han portado carteles que rezaban "7291, no os olvidamos", "Carroñeros" o "Maltrato institucional" y han proferido cánticos como "Residencias públicas y de calidad" o "La privatización, produce corrupción" para criticar al Gobierno de <a href="https://www.publico.es/tag/isabel-diaz-ayuso">Isabel Díaz Ayuso</a> "la falta de asistencia sanitaria para los fallecidos durante la pandemia en las residencias madrileñas".</p>
+    <p>La marcha ha estado secundada por la portavoz del <a href="https://www.publico.es/tag/psoe">PSOE </a>en el Ayuntamiento, <a href="https://www.publico.es/tag/reyes-maroto">Reyes Maroto</a>, que ha pedido a la Comunidad de Madrid que apruebe "una ley de residencias para garantizar el 100% de plazas públicas".</p>
+    <p>En declaraciones a Europa Press, Maroto también ha criticado el plan de residencias 40-40 de la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, y lo ha tachado de "pelotazo" que lo que está haciendo es "privatizar" el modelo de residencias de la comunidad.</p>
+    <p>"Desde el Partido Socialista no lo vamos a permitir, como no lo van a permitir las familias madrileñas que se tienen que endeudar para poder pagarle una plaza de residencia a las personas mayores de esta comunidad", ha defendido.</p>
+    <p>Asimismo, ha tachado los datos de mayores en lista de espera de residencias como "alarmantes" con "más de 3.000 personas en lista de espera" esperando una residencia pública y con "más de 10.700 familias" esperando una asistencia domiciliaria solo en Madrid.</p>
+    <h2>"Alfombra roja" a los especuladores en Madrid</h2>
+    <p>Por otro lado, ha cargado contra Ayuso y el alcalde de Madrid, <a href="https://www.publico.es/tag/jose-luis-martinez-almeida">José Luis Martínez-Almeida</a>, por poner "una alfombra roja a los fondos buitre" porque, a su juicio, ha cedido "19 parcelas públicas de todos los madrileños a estos promotores de las residencias privadas".</p>
+    <p>"Y esto claramente es un modelo, el de Ayuso y Almeida, el modelo del pelotazo, el modelo de los fondos buitre, el modelo de la especulación que hay que parar", ha reivindicado.</p>
+    <p>Por ello, ha pedido "de forma mayoritaria" el voto del Partido Socialista a las personas mayores para que vayan a votar por "sus derechos" y que piensen lo que pasó en las residencias durante la pandemia.</p>
+    <p>"Queremos alzar la voz y desde luego por parte del Partido Socialista llevaremos a la Asamblea esa ley de residencias para garantizar que todas las plazas que se ponen a disposición por parte de la Comunidad de Madrid sean públicas", ha zanjado.</p>
+  </body>
+</html>]]></content:encoded>
+      <guid isPermaLink="false">efcced80a53ef667d5027b7a120ca7e35fb6a5d3</guid>
+      <enclosure url="https://www.publico.es/files/og_thumbnail/uploads/2026/11/21/6b019f77d1463.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Un hombre detenido por participar en los disturbios vinculados a la red Blocus en Palma</title>
+      <link>https://www.publico.es/sociedad/hombre-detenido-participar-disturbios-vinculados-red-blocus-palma.html</link>
+      <description>Con esta son ya cinco las personas detenidas por su participación en estas aparentes manifestaciones, que se saldaron con varias decenas de identificados y la incautación de diverso material....</description>
+      <content:encoded><![CDATA[<html>
+  <body>
+    <h1>Un hombre detenido por participar en los disturbios vinculados a la red Blocus en Palma</h1>
+    <p>Con esta son ya cinco las personas detenidas por su participación en estas aparentes manifestaciones, que se saldaron con varias decenas de identificados y la incautación de diverso material.</p>
+    <p>La Policía Nacional ha detenido a un hombre por supuestamente participar en los disturbios vinculados a la red Bloucs que a finales del pasado mes de octubre tuvieron lugar en Palma.</p>
+    <p>Con esta son ya cinco las personas detenidas por su participación en estas aparentes <a href="https://www.publico.es/tag/manifestacion">manifestaciones</a>, que se saldaron con varias decenas de identificados y la incautación de diverso material.</p>
+    <p>Mientras los primeros cuatro arrestados eran menores de edad, este es mayor y fue identificado durante los disturbios, según han confirmado a fuentes próximas a la investigación.</p>
+    <p>Las pesquisas están a cargo de los agentes de la Brigada Provincial de Información y giran alrededor de la supuesta comisión de <a href="https://www.publico.es/tag/delitos">delitos</a> de desórdenes públicos o conspiración para llevar a cabo delitos contra el patrimonio.</p>
+    <p>A diferencia de lo ocurrido en otros puntos de España, las personas que hasta el momento habían sido detenidas en Palma no están acusadas de formar parte de la organización de la red Blocus.</p>
+  </body>
+</html>]]></content:encoded>
+      <guid isPermaLink="false">00fe55a0b80c570599b2999f0a560a3b25207ef7</guid>
+      <enclosure url="https://www.publico.es/files/og_thumbnail/uploads/2026/11/21/6b01a774dcb39.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>El núcleo duro del primer Gobierno de Felipe González pide el voto para Pedro Sánchez</title>
+      <link>https://www.publico.es/politica/partidos/nucleo-duro-primer-gobierno-felipe-gonzalez-pide-voto-pedro-sanchez.html</link>
+      <description>Un escrito, firmado por exministros como Javier Solana o Narcís Serra, además de la primera mujer de Felipe González, Carmen Romero, alerta de "la involución" que traería un Ejecutivo de PP y Vox....</description>
+      <content:encoded><![CDATA[<html>
+  <body>
+    <h1>El núcleo duro del primer Gobierno de Felipe González pide el voto para Pedro Sánchez</h1>
+    <p>Un escrito, firmado por exministros como Javier Solana, Narcís Serra o Almunia Almunia, alerta de “la involución” que traería un Ejecutivo de PP y Vox.</p>
+    <p>El núcleo duro del primer <a href="https://www.publico.es/tag/gobierno-de-espana">Gobierno </a>de Felipe González, salvo el que fuera su vicepresidente, Alfonso Guerra, ha firmado un escrito conjunto para pedir el voto al PSOE y a su candidato a la Presidencia, Pedro Sánchez, ante "la involución" y el "recorte" de derechos conquistados que traería un Ejecutivo de PP y Vox.</p>
+    <p>El escrito, publicado este sábado por el diario<a href="https://elpais.com/espana/elecciones-generales/2026-11-21/la-plana-mayor-del-primer-gobierno-de-felipe-gonzalez-pide-el-voto-para-pedro-sanchez.html?event_log=oklogin"> El País</a>, ha sido suscrito por exministros como Javier Solana, José María Maravall, Joaquín Almunia, Carlos Solchaga, Narcís Serra, Claudio Aranzadi (ministro en el segundo Gobierno de González), además del expresidente andaluz Manuel Chaves y la exdiputada y primera mujer de Felipe González, Carmen Romero.</p>
+    <p>Los exsocialistas manifiestan su apoyo a las candidaturas del PSOE y a un Gobierno que continúe con los avances en materia económica y social, mejore la vida de la gente e incremente el empleo de calidad y los salarios.</p>
+    <p>También apuestan porque "garantice" el aumento de las pensiones, una <a href="https://www.publico.es/tag/vivienda">vivienda </a>a precios asequibles, protección frente a la violencia de género, avances hacia la autonomía estratégica de la Unión Europea, y que "trabaje por la paz y por un orden internacional justo".</p>
+    <p>Mientras tanto, González ya anticipó en octubre que iba a votar en blanco al no sentirse representado por el PSOE de Sánchez -a quien ha criticado en varias ocasiones- ni por otros partidos.</p>
+    <p>Precisamente este sábado el expresidente de Castilla-La Mancha y ex ministro de Defensa José Bono ha reprochado a González que diga que va a votar en blanco y le ha pedido que no haga "el tonto".</p>
+  </body>
+</html>]]></content:encoded>
+      <guid isPermaLink="false">8814e21e1bcebfd1aa6d8c1120b8633b4fc6dbe7</guid>
+      <enclosure url="https://www.publico.es/files/og_thumbnail/files/fp/uploads/2026/11/21/6b01563a68738.r_d.960-640-0.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La COP31 apura sus plazos aún sin una decisión y con las negociaciones empantanadas</title>
+      <link>https://www.publico.es/internacional/cop31-apura-plazos-aun-decision-negociaciones-empantanadas.html</link>
+      <description>Una de las principales discrepancias del proceso radica en la mención específica en el documento final hacia un abandono de los hidrocarburos (una promesa ya pactada hace tres años en la COP28 de D...</description>
+      <content:encoded><![CDATA[<html>
+  <body>
+    <h1>La COP31 apura sus plazos aún sin una decisión y con las negociaciones empantanadas</h1>
+    <p>Una de las principales discrepancias del proceso radica en la mención específica en el documento final hacia un abandono de los hidrocarburos<a href="https://www.publico.es/tag/hidrocarburos"> (una promesa ya pactada hace tres años en la COP28 de Dubai).</a></p>
+    <p>Los cerca de 200 países representados en la Cumbre Climática de Antalya (COP31) apuran este sábado los plazos para llegar a una decisión, en medio de unas negociaciones empantanadas marcadas por el pulso entre las naciones que exigen mencionar el abandono de los hidrocarburos y los petroestados y grandes emisores como la India que se niegan a citar ese punto.</p>
+    <p>Tras una agitada sesión plenaria de anoche interrumpida por un activista anticombustibles fósiles, las delegaciones siguieron hoy las negociaciones tras sobrepasar -como ha ocurrido en varias cumbres climáticas- el plazo oficial para alcanzar un pacto, fijado el viernes. La discusión y aprobación de un eventual texto final podría alargarse hasta la madrugada. También es posible que la ronda negociadora termine sin un consenso.</p>
+    <p>El hermetismo de las negociaciones, con contadas intervenciones públicas de responsables políticos y sesiones a puerta cerrada, dio lugar a inesperadas escenas, como la tromba de periodistas que persiguió corriendo al comisario europeo de Clima, Wopke Hoekstra, para arrancarle una declaración sobre cómo iban las conversaciones.</p>
+    <p>Una de las principales discrepancias del proceso radica en la mención específica en el documento final hacia un abandono de los <a href="https://www.publico.es/tag/hidrocarburos">hidrocarburos</a> (una promesa ya pactada hace tres años en la COP28 de Dubai), que demandan tanto el club europeo como los microestados del Pacífico y ciertas naciones latinoamericanas (entre ellas, Panamá y Guatemala).</p>
+    <p>Otra desavenencia, más específica de buena parte del Sur Global, es un aumento de la financiación para la adaptación al <a href="https://www.publico.es/tag/cambio-climatico">cambio climático</a> de los países ricos hacia los que están en vías de desarrollo.</p>
+    <p>Este se trata de un punto de fricción para la UE, que, ante la ausencia de EEUU, carga con la mayor parte de responsabilidad económica mientras muchos de sus miembros sufren crisis fiscales, pero también para los petroestados, a los que se quiere hacer pasar por caja por su cuota contaminadora.</p>
+    <p>Por último, también dividen las promesas para reforzar el uso de la incipiente tecnología de captura, utilización y almacenamiento de carbono (CCUS, por sus siglas en inglés) incluidas en el último borrador.</p>
+    <p>Esta es una línea roja de la UE, que no quiere promover el CCUS por considerarlo ineficiente y caro. Este mecanismo es una demanda encabezada por Arabia Saudí.</p>
+    <p>"Vemos posturas que, quizás aferrándose a una expresión en particular, llevan el asunto hacia un punto muerto (...) Sigo invitando a todos los países a la responsabilidad a estas alturas", declaró a los medios el presidente de la COP31, el ministro de <a href="https://www.publico.es/tag/medio-ambiente">Medio Ambiente</a> turco Murat Kurum, sin citar a qué países se refería.</p>
+    <p>"Aquí no salen decisiones por imposición. Al fin y al cabo, 196 países tienen que actuar juntos y tomar decisiones juntos", ahondó.</p>
+    <p>Durante la maratoniana jornada negociadora, un representante de Tuvalu, pequeño país insular del Pacífico amenazado por el aumento del nivel del mar debido al calentamiento global, dio una declaración pública para decir que las negociaciones siguen "empantanadas".</p>
+    <p>"Mientras las negociaciones en el marco de la Convención sobre el Cambio Climático siguen empantanadas, nosotros creamos inspiración y soluciones en su lugar, incluso dentro y fuera de los espacios de la COP, generando acción climática", declaró a los medios el ministro de Cambio Climático y Medio Ambiente de Tuvalu, Maina Talia, en alusión al bloqueo del proceso multilateral de la ONU y en medio de los retrasos de la COP31.</p>
+  </body>
+</html>]]></content:encoded>
+      <guid isPermaLink="false">04a7112a673b26fcca0edfa4e84c0f54dbdf372f</guid>
+      <enclosure url="https://www.publico.es/files/og_thumbnail/uploads/2026/11/21/6b01cee9ac6a4.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Un ataque con drones deja un barco ruso incendiado y anclado en el golfo de Finlandia</title>
+      <link>https://www.publico.es/internacional/ataque-drones-deja-barco-ruso-incendiado-anclado-golfo-finlandia.html</link>
+      <description>El barco, de 120 metros de eslora, fue atacado por dos drones cuando se dirigía a Kaliningrado.</description>
+      <content:encoded><![CDATA[<html>
+  <body>
+    <h1>Un ataque con drones deja un barco ruso incendiado y anclado en el golfo de Finlandia</h1>
+    <p>El barco, de 120 metros de eslora, fue atacado por dos drones cuando se dirigía a Kaliningrado, el enclave ruso en el Báltico.</p>
+    <p>Un carguero ruso, el Sparta II, quedó anclado este sábado en aguas del golfo de Finlandia después de que fuera atacado por drones, que causaron un incendio a bordo, un ataque que Moscú atribuye a Ucrania, al igual que Helsinki, donde apoyan el derecho a defenderse del país invadido por <a href="https://www.publico.es/tag/rusia">Rusia</a>.</p>
+    <p>El barco, de 120 metros de eslora, fue atacado por dos drones cuando se dirigía a Kaliningrado, el enclave ruso en el Báltico, según denunció este sábado el gobernador de la región rusa de Leningrado, Alexandr Drozdenko.</p>
+    <p>El gobernador regional ruso dijo que el ataque se produjo "en aguas neutrales del golfo de Finlandia, a tres millas náuticas de la frontera de la Federación rusa".</p>
+    <p>Pero desde la Guardia Fronteriza finlandesa, su comandante, Ilja Iljin, señaló a la radiotelevisión pública de <a href="https://www.publico.es/tag/finlandia">Finlandia</a> que los drones ucranianos impactaron sobre el barco en aguas rusas.</p>
+    <p>Tras el ataque, el buque se desplazó "a la deriva desde aguas internacionales hasta aguas territoriales finlandesas, en la parte oriental del golfo de Finlandia", indicó en un comunicado la Guardia Fronteriza del país nórdico, que mantiene contacto con las autoridades estonias y rusas.</p>
+    <p>"La situación no supone ningún peligro para el resto del tráfico marítimo", según las autoridades fronterizas finlandesas.</p>
+    <p>La Guardia Fronteriza precisó que sobre el Sparta II se ha establecido una zona restringida por motivos de seguridad.</p>
+    <p>"No se ha detectado ningún daño medioambiental", abundó la autoridad fronteriza finlandesa, que informó de que el barco quedó anclado antes de poder evacuarse la tripulación, extremo al que ya se procedía sobre las 15.30 GMT, según la agencia de Finlandia STT.</p>
+    <p>El barco, del que Iljin aseguró que había servido en el pasado para el transporte de armas rusas, contaba con una tripulación de 16 personas.</p>
+    <h2>Barco de una empresa vinculada a la Defensa rusa</h2>
+    <p>En un primer momento, no trascendió si hubo heridos ni el motivo del ataque, pero según explicó en una rueda de prensa Mikko Simola, comandante de la Guardia Costera de Finlandia, las autoridades finlandesas recibieron información antes de las 7.00 GMT sobre un posible ataque contra el barco ruso, informó STT.</p>
+    <p>La embarcación pertenece a la empresa rusa Oboronlogistika, una firma dependiente del Ministerio de Defensa ruso, según la agencia de noticias finlandesa.</p>
+    <p>El primer ministro finlandés, Petteri Orpo, indicó en su cuenta de X que "las autoridades finlandesas están manejando la situación", marcada por un incendio en el barco cuyo "humo se extiende hacia nuestras áreas cercanas".</p>
+    <p>Orpo también señaló que "<a href="https://www.publico.es/tag/ucrania">Ucrania</a> tiene derecho a defenderse contra el agresor", al aludir al ataque contra el Sparta II.</p>
+    <h2>Orpo avisa de la extensión de la guerra de Ucrania</h2>
+    <p>El primer ministro finlandés también señaló, en alusión a la guerra de agresión de Rusia contra Ucrania, que ese conflicto "se está extendiendo a nuestras zonas vecinas".</p>
+    <p>Desde las Fuerzas Armadas del país nórdico, Aki-Mauri Huhtinen, responsable de comunicación, indicó que tras el incidente, "no hay amenazas militares inminentes contra Finlandia", según STT.</p>
+    <p>"Los acontecimientos de hoy forman parte de un desarrollo más amplio en el panorama de la seguridad", afirmó Huhtinen.</p>
+    <p>Previamente, las Fuerzas Armadas finlandesas, que habían suspendido temporalmente el tráfico aéreo y marítimo en el Golfo de Finlandia por precaución, informaron del ataque a los aliados del país nórdico.</p>
+    <p>Además, se produjo una presunta violación del espacio aéreo de Finlandia a cargo de un helicóptero ruso, un incidente vinculado al ataque contra el barco, informó el ministro de Defensa finlandés, Antti Häkkänen.</p>
+    <p>"Se sospecha que un helicóptero ruso ha violado hoy el espacio aéreo de Finlandia. La presunta violación del espacio aéreo podría estar relacionada con las operaciones de rescate o seguimiento del buque de carga dañado en el golfo de Finlandia", señaló Häkkänen en su cuenta de X.</p>
+  </body>
+</html>]]></content:encoded>
+      <guid isPermaLink="false">2ba869dc31f7f4c25dd641e46bd8a4b7dde190b1</guid>
+      <enclosure url="https://www.publico.es/files/og_thumbnail/uploads/2026/11/21/6b01de0f9c13b.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>México captura a El Chapo Isidro, uno de los fugitivos más buscados por EEUU</title>
+      <link>https://www.publico.es/internacional/mexico-captura-chapo-isidro-fugitivos-buscados-eeuu.html</link>
+      <description>Durante la misma operación, destacó, fueron también detenidos Germán, alias Serafín, señalado como segundo al mando, y José, presunto operador financiero del grupo....</description>
+      <content:encoded><![CDATA[<html>
+  <body>
+    <h1>México captura a El Chapo Isidro, uno de los fugitivos más buscados por EEUU</h1>
+    <p>Durante la misma operación fueron también detenidos Germán, alias Serafín, señalado como segundo al mando, y José, presunto operador financiero del grupo.</p>
+    <p>El secretario de Seguridad de México, Omar García Harfuch, confirmó este sábado la detención de Fausto Isidro, alias El Chapo Isidro, uno de los 10 fugitivos más buscados por <a href="https://www.publico.es/tag/estados-unidos">EEUU</a> durante un operativo nocturno en el estado de Sinaloa (noroeste), que contó con la coordinación de organismos de inteligencia de la Secretaría de la Defensa Nacional y de Estados Unidos.</p>
+    <p>García Harfuch informó que la captura se llevó a cabo en la madrugada del viernes en el municipio de Guasave (norte de Sinaloa), bastión del jefe de la organización delictiva Beltrán Leyva y aliada al Cártel del Pacífico, facción de Los Mayos, lo que ha desatado enfrentamientos entre agentes federales y narcotraficantes, así como pánico en la población.</p>
+    <p>"Nuestro reconocimiento a la Secretaría de la Defensa Nacional (@Defensamx1) y a las Fuerzas Especiales del Ejército Mexicano y de la Guardia Nacional (@GN_MEXICO_) por su valor y profesionalismo en la operación que permitió detener en Guasave, Sinaloa, a Fausto Isidro N, alias Chapo Isidro, identificado como jefe de la organización delictiva de los Beltrán Leyva", escribió Harfuch en un mensaje publicado en la red social X.</p>
+    <p>Durante la misma operación fueron también detenidos Germán, alias Serafín, señalado como segundo al mando, y José, presunto operador financiero del grupo.</p>
+    <p>"Estas detenciones son un paso importante para la pacificación de Sinaloa. Las instituciones del Gabinete de Seguridad seguimos desplegadas en el estado para proteger a la población", subrayó el secretario, en un contexto de tensión que ha provocado hasta la cancelación de un partido de béisbol profesional en el estadio Kuroda Park.</p>
+    <p>Por su parte, la Secretaría de la Defensa Nacional explicó en un comunicado que Chapo Isidro cuenta con una orden de aprehensión en México por delincuencia organizada y por cometer <a href="https://www.publico.es/tag/delitos">delitos</a> contra la salud.</p>
+    <p>Así como una orden de extradición a Estados Unidos "por asociación delictiva para distribuir droga en territorio estadounidense; además, se encuentra en la lista de los 10 fugitivos más buscados por el FBI".</p>
+    <p>Según la dependencia federal, la captura de El Chapo Isidro fue realizada "por fuerzas militares de élite", quienes, mediante el empleo de diversos ingenios tecnológicos, operaron en tres fases.</p>
+    <p>La primera se desplegó al llegar al área del objetivo, y se realizó por sorpresa mediante diferentes vías de acceso terrestre al área de detención.</p>
+    <p>En un segundo momento, se estableció la captura del objetivo, la cual se desarrolló en las inmediaciones de la ubicación de los detenidos, mediante la colocación de un dispositivo de seguridad interna y externa.</p>
+    <p>De esa manera, explicó, se evitó la huida o la llegada de refuerzos, y habiendo sido agredidos con disparos de armas de fuego y explosivos, por lo que la fuerza de detención ingresó a la casa habitación para la captura.</p>
+    <p>Finalmente, cuando fue confirmada la identidad de los detenidos, "se procedió a su evacuación a Ciudad de México, en una aeronave de la Fuerza Aérea Mexicana, para ser puestos a disposición de las autoridades ministeriales competentes".</p>
+    <p>La nota indicó que, como resultado del operativo, se han registrado bloqueos en Sinaloa en los municipios de Ahome, Guamúchil, Guasave y Navolato, por lo que se activó el plan antibloqueo para movilizar a las fuerzas de seguridad, restablecer el tránsito en las vías de comunicación y proteger a la población.</p>
+  </body>
+</html>]]></content:encoded>
+      <guid isPermaLink="false">ed856e55cb02eb2738c81dd65ba90d0068101d70</guid>
+      <enclosure url="https://www.publico.es/files/og_thumbnail/files/fp/uploads/2026/11/21/6b01c80e6034f.r_d.1095-57-0.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una segunda embarcación eleva a casi 100 los migrantes llegados este sábado a Cartagena</title>
+      <link>https://www.publico.es/sociedad/migracion/segunda-embarcacion-eleva-casi-100-migrantes-llegados-sabado-cartagena.html</link>
+      <description>A bordo iban 49 personas de nacionalidad argelina (38 varones adultos, una mujer y diez menores varones).</description>
+      <content:encoded><![CDATA[<html>
+  <body>
+    <h1>Una segunda embarcación eleva a casi 100 los migrantes llegados este sábado a Cartagena</h1>
+    <p>A bordo iban 49 personas de nacionalidad argelina (38 varones adultos, una mujer y diez menores).</p>
+    <p>Una segunda embarcación, con 49 migrantes a bordo, llegada esta mañana a la costa de Cartagena eleva a casi un centenar los migrantes llegados hoy, después de que esta madrugada fueran interceptados otros 47 <a href="https://www.publico.es/tag/migrantes">migrantes</a> al sureste del Monte de las Cenizas, en Cartagena.</p>
+    <p>Esta segunda embarcación era detectada, a las 7.05 horas de este sábado en las inmediaciones de cala de los Dentoles. De inmediato, se ha activado un dispositivo para localizar a sus ocupantes, según han confirmado desde la Delegación del Gobierno.</p>
+    <p>A bordo iban 49 personas de nacionalidad argelina (38 varones adultos, una mujer y diez menores). Todos ellos serán puestos a disposición de la Policía Nacional y, en aplicación del protocolo habitual, se iniciarán los correspondientes expedientes de devolución.</p>
+  </body>
+</html>]]></content:encoded>
+      <guid isPermaLink="false">5541ce65608fb9521e55c235f77f9c626a732304</guid>
+      <enclosure url="https://www.publico.es/files/og_thumbnail/uploads/2026/11/20/6b0083ceb0cb3.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La izquierda fue la gran perjudicada en 2023 por la ley electoral: el 7,9 % de sus votos no obtuvo escaño</title>
+      <link>https://www.publico.es/politica/izquierda-gran-perjudicada-2023-ley-electoral-7-9-votos-obtuvo-escano.html</link>
+      <description>Ceuta, Melilla y la España vaciada son las provincias donde más papeletas no obtuvieron representación en los últimos comicios, según el análisis electoral de 'Público'.</description>
+      <content:encoded><![CDATA[<html>
+  <body>
+    <h1>La izquierda fue la gran perjudicada en 2023 por la ley electoral: el 7,9 % de sus votos no obtuvo escaño</h1>
+    <ul>
+      <li>
+        <p>La mayor diferencia por bloques ideológicos se produjo en las provincias que eligen cuatro o cinco diputados, donde la izquierda 'desaprovechó' un 21,2% de sus papeletas por sólo el 11,9% la derecha.</p>
+      </li>
+      <li>
+        <p>Casi dos millones de sufragios fueron a listas que se quedaron sin escaño en su circunscripción.</p>
+      </li>
+      <li>
+        <p>Tras Sumar y Vox, la formación más afectada fue el Pacma, que logró casi 170.000 votos y no entró en el Congreso.</p>
+      </li>
+    </ul>
+    <p>En las elecciones generales de 2023, se presentaron 59 candidaturas, pero sólo 11 entraron en la Cámara Baja. Según el análisis que ha hecho Público de los resultados de aquellos comicios, se quedaron sin representación casi dos millones de votos –1.930.424 sufragios–, el 7,82% de los considerados válidos. Se perdieron votos de esas candidaturas que quedaron fuera del Congreso, pero también los principales partidos desaprovecharon papeletas en algunas circunscripciones.</p>
+    <p>La razón es que la <a href="https://www.boe.es/buscar/pdf/1985/BOE-A-1985-11672-consolidado.pdf">ley electoral</a> obliga a los partidos a reunir el 3% de los votos válidos emitidos en una circunscripción para conseguir un escaño en el Congreso. Pero, además de esa barrera legal que se debe superar, en muchas provincias hay una barrera real: como se elige un número de diputados reducido, en la práctica se necesita un porcentaje mucho más alto (un 5%, un 7% de los sufragios... dependiendo de la provincia) para entrar en el reparto de escaños.</p>
+    <p>Junto a las principales formaciones políticas –PP, PSOE, Sumar, los partidos nacionalistas–, Teruel Existe y Soria ¡Ya! hasta Somos Cáceres, Por Ávila, Jaén merece más, Juntos por Granada, Vamos Palencia..., de menor recorrido. Además, se presentaron otros partidos muy minoritarios, como Caminando Juntos, el partido fundado por <a href="https://www.publico.es/politica/ridiculo-macarena-olona-430-votos-granada.html">la exdiputada de Vox Macarena Olona</a>; Fuerza Cívica, surgido de Forocoches; Por un Mundo Más Justo, que lucha contra la pobreza y la desigualdad, Escaños en Blanco para dejar Escaños Vacíos –que deja claro su programa en el nombre– o el <a href="https://www.publico.es/politica/pacma-tuvo-votos-bng-upn-pero-entro-congreso.html">Pacma</a>, el partido animalista.</p>
+    <p>Sin embargo, fueron Sumar y Vox los partidos que más votos perdieron en 2023. Entre los dos suman casi 1,1 millones de sufragios sin escaño, el 57% de esos casi dos millones que no obtuvieron representación: 605.047 papeletas –el 19,9% de sus votos– correspondieron a la lista de Yolanda Díaz y 492.991–el 16,1% de sus votos– a la de Santiago Abascal. El tercero fue el Pacma, que no entró en el Congreso pese a reunir 169.237 votos. El cuarto puesto corresponde a los independentistas de la CUP, que <a href="https://www.publico.es/politica/batacazo-cup-elecciones-catalanas-cae-nueve-cuatro-escanos.html">se dejaron 99.644 sufragios</a>, sobre todo en Barcelona. En quinto lugar aparece el PP, que no pudo aprovechar 87.761 papeletas –aunque sólo representaron el 1,1% de sus votos–. El PSOE sólo perdió el 0,2% de sus sufragios, 18.275, en Ceuta y Melilla. El motivo es que las ciudades autónomas sólo tienen un diputado cada una, y ambos correspondieron al PP.</p>
+    <p>Tras los populares, el siguiente de la lista es el BNG, el partido nacionalista que desaprovechó más votos, 86.342, nada menos que el 56,1% de sus apoyos: no consiguió escaños ni en Pontevedra, ni en Lugo ni en Ourense. Sólo logró un diputado en A Coruña.</p>
+    <p>A partir de ahí, las candidaturas provinciales pierden todos sus votos. <a href="https://www.publico.es/politica/paso-partidos-espana-vaciada-asi-quedado-fenomeno-estancado-polarizacion.html">Teruel Existe</a>, Soria ¡Ya!, Jaén Merece Más y Por Ávila no pudieron aprovechar entre 7.000 y 20.000 votos cada una.</p>
+    <h2>La izquierda 'pierde' más votos que la derecha</h2>
+    <p>Si el voto perdido se clasifica por <a href="https://www.publico.es/politica/izquierda-gano-votos-siete-ocho-elecciones-abstencion-debajo-30.html">bloques ideológicos</a>, la izquierda desaprovecha más sufragios que la derecha: 947.493 papeletas se quedaron sin escaño, por 743.516 la derecha. Es decir, la izquierda perdió el 7,9% de sus votos; la derecha el 6,1%. </p>
+    <p>Este periódico ha dividido las 59 candidaturas en tres bloques ideológicos, cuya clasificación puedes consultar más abajo. El de la izquierda, que reunió el 48,85% de los votos válidos, está integrado por 18 listas. El de la derecha, que sumó el 49,37% del sufragio válido, lo componen 22 candidaturas. El tercero, los partidos sin definición –19, entre listas provinciales, el Pacma, Tercera Edad en Acción, Referéndum Sistema Dinero...–, reunió 239.415 papeletas, el 0,97% del voto válido. Y las perdió todas, porque no consiguió ni un solo escaño. Los que más, el Pacma, que se presentaba en toda España, y las plataformas de la España vaciada.</p>
+    <p>Coalición Existe, que agrupó a Teruel Existe y Aragón Existe, fue la plataforma de la España Vaciada que más votos perdió, al no lograr escaño ni en Teruel ni en Zaragoza.</p>
+    <h2>Las provincias que más sufren la ley electoral</h2>
+    <p>Ceuta y Melilla son las circunscripciones donde, porcentualmente, más voto se quedó sin escaño. Pero eso es algo lógico ya que allí solo se elige un diputado, por tanto, todas las papeletas que no vayan al partido ganador se quedan sin representación. En 2023 ocurrió así con el 60,25% de los sufragios en Ceuta –20.075 papeletas– y el 49,91% –13.650 papeletas– en Melilla. En ambas fue el PSOE quien más votos perdió: el 34% del voto válido en Ceuta y el 25,4% en Melilla.</p>
+    <p>Sin embargo, en cifras absolutas, Barcelona es la circunscripción donde más sufragios terminaron sin escaño: 131.929. Aunque sólo representan el 4,95%, de los que el 2,5% eran votos de la CUP. Le sigue Pontevedra, con 86.249 papeletas sin escaño, el 15%, de los que un 9,4% corresponden al BNG. Gipuzkoa es la tercera con más votos perdidos, 84.560, de los que casi la mitad llevaban la cabecera de Sumar. En Las Palmas, la cuarta de la lista, fueron 82.035 los sufragios desaprovechados y la mitad eran de Nueva Canarias.</p>
+    <p>Pero, en proporción al voto válido, cuanto más pequeña es la circunscripción, más votos se pierden. Además de las citadas Ceuta y Melilla, las campeonas del sufragio sin escaño son Teruel, con el 35,16%; Lleida, con el 32,79%, y Soria, con el 32,74%. Se les acercan León, con el 28,88% y Ávila, con el 28,71%.</p>
+    <p>Así, si se desglosan las circunscripciones por el número de diputados que elige cada una, resulta claro que las que pierden una mayor proporción de sus votos son las que podrían encuadrarse en la España vaciada y tienen entre uno y tres escaños por su <a href="https://www.publico.es/economia/mitad-municipios-espana-sucursal-bancaria-cajero-automatico.html">escasa población</a>: Teruel, Soria, Ávila, Huesca, Segovia, Palencia, Cuenca, Zamora y Guadalajara, junto a Ceuta y Melilla. En ellas se quedó sin escaño el 25,6% del voto válido. Ese porcentaje baja al 16,9% en las circunscripciones con entre cuatro y cinco escaños, entre las que se incluyen León, Albacete, Burgos, Salamanca, Ourense, Lugo, Badajoz, Ciudad Real, Jaén. Por el contrario, las que menos voto pierden en proporción son Barcelona, Sevilla, Valencia, Málaga, Madrid, Alicante, Cádiz y Murcia, que eligen nueve o más diputados. La cifra de sufragios que no se transforman en escaño se queda en ese caso en el 2,3%.</p>
+    <h2>Más diferencia en las provincias de 4 y 5 escaños</h2>
+    <p>Si se miran los datos por bloques ideológicos, mientras en las provincias más pequeñas la pérdida es similar para la derecha y para la izquierda –23,4% y 23,1%, respectivamente–, en las que eligen cuatro y cinco escaños la brecha se agranda y la izquierda desaprovecha un 21,2% de sus papeletas, por sólo 11,9% la derecha, nueve puntos porcentuales más. Un total de 453.890 de la izquierda en este tramo se quedaron sin escaño: la víctima principal fue Sumar, que no transformó en escaños un importante número de sufragios en Castellón, Navarra, Álava, Huelva, Valladolid, Cantabria o Jaén. Vox perdió votos en Albacete, Salamanca, Cáceres, León y Burgos, y el PP en Lleida.</p>
+    <p>En cambio, los sufragios sin escaño bajan al mínimo en las provincias que eligen nueve diputados o más. La principal pérdida corresponde al Pacma. Y la izquierda –113.822 votos–pierde casi el doble que la derecha –60.400–, por</p>
+    <h2>Así se ha hecho el análisis de 'Público'</h2>
+    <p>Este periódico ha clasificado las 59 candidaturas que se presentaron a las elecciones de 2023 en tres bloques ideológicos: derecha, izquierda y sin definir. Puedes consultar la clasificación en el documento que figura sobre estas líneas.</p>
+    <p>Una vez realizada la clasificación, se han analizado los resultados en las 52 circunscripciones, teniendo en cuenta el número de votos válidos y el número de escaños obtenidos.</p>
+  </body>
+</html>]]></content:encoded>
+      <guid isPermaLink="false">f7771f79de2754ee05e450d5f061b155c2d3cbbe</guid>
+      <enclosure url="https://www.publico.es/files/og_thumbnail/uploads/2026/10/26/6adf2fb52dc03.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Silencio, ambigüedad y contradicciones: PP y Vox se lían con el futuro de las pensiones</title>
+      <link>https://www.publico.es/economia/silencio-ambigueedad-contradicciones-pp-vox-lian-futuro-pensiones.html</link>
+      <description>Esta serie analiza los planes de PP y Vox de cara al 29N. Un recorrido por las leyes que podrían modificar si llegan al poder y las consecuencias que tendría para la ciudadanía....</description>
+      <content:encoded><![CDATA[<html>
+  <body>
+    <h1>Silencio, ambigüedad y contradicciones: PP y Vox se lían con el futuro de las pensiones</h1>
+    <ul>
+      <li>
+        <p>El PP se compromete a garantizar las pensiones, pero Feijóo también dice que hay que reformar el sistema. Vox, mucho más impreciso, apela a tener "una economía más productiva" para sostenerlas.</p>
+      </li>
+      <li>
+        <p>Esta serie analiza los planes de PP y Vox de cara al 29N. Un recorrido por las leyes que podrían modificar si llegan al poder y las consecuencias que tendría para la ciudadanía.</p>
+      </li>
+    </ul>
+    <p>La <a href="https://www.publico.es/economia/dijo-pensiones-son-sostenibles-seguridad-social-ingresa-gasta.html">sostenibilidad del sistema público de pensiones</a> siempre irrumpe con fuerza en todas las campañas electorales. De hecho, es uno de los asuntos centrales en los discursos de los diferentes candidatos. No es para menos: unos diez millones de electores mayores de 65 años están llamados a votar el próximo 29 de noviembre. Es algo más del 25% del censo electoral. El voto mayor es decisivo. Los partidos lo saben y por eso se cuidan mucho de no cometer errores al hablar de esta cuestión. </p>
+    <p>Esa estrategia de no equivocarse es la que han adoptado el PP y Vox de cara a la cita electoral. En el caso de la ultraderecha es más que evidente: en el programa de Vox, solo se mencionan las pensiones una vez, de forma muy genérica y sin adoptar ningún compromiso claro y preciso sobre el futuro del sistema. "Una economía más productiva es la garantía de sostenibilidad de las pensiones", es la única referencia en un documento que recoge 115 propuestas.</p>
+    <p>El PP menciona las pensiones seis veces en su programa. Promete mantener el poder adquisitivo de las mismas a través de la actualización del IPC, a pesar de que votó en contra de la reforma del año 2021 que garantizaba dicha revalorización. Los de Alberto Núñez Feijóo también dejan por escrito que las pensiones son "un compromiso de Estado" y aseguran que "blindarán" la caja única de la Seguridad Social. Sin embargo, en ese mismo programa electoral el PP también siembra cierta duda al afirmar: "Las grandes decisiones sobre vivienda, empleo, pensiones, educación y fiscalidad tendrán en cuenta su impacto en las siguientes generaciones".</p>
+    <p>Pero una cosa es lo que se afirme en el programa electoral y otra muy distinta lo que digan los principales dirigentes del PP y Vox. La sostenibilidad de las pensiones copó titulares en los días previos al arranque de la campaña electoral cuando <a href="https://www.publico.es/politica/vox-dice-pensiones-quebradas-apuesta-avanzar-privatizacion.html">en una entrevista, José María Figaredo, portavoz económico de Vox, reveló lo que parecen ser las verdaderas intenciones ocultas de la ultraderecha</a>: la privatización parcial del sistema. "El sistema de pensiones es un zombi. Lo han quebrado. La solución que plantea Vox requiere una reforma estructural hacia un modelo mixto que combine el reparto con la capitalización individual, como han hecho con éxito otros países europeos", dijo Figaredo. Posteriormente, en el debate a cuatro entre los portavoces económicos de los cuatro grandes partidos en La Sexta—PP, PSOE, Vox y Frente Amplio—, Figaredo, presionado por la moderadora, sí dijo que las pensiones se actualizarían de acuerdo con el IPC, aunque a renglón seguido culpó a los inmigrantes que viven en España de que "las pensiones, a día de hoy, con su gestión, ya no sean sostenibles".</p>
+    <p>Las palabras de Figaredo causaron un gran revuelo. Lejos de aplacar la polémica, Santiago Abascal lleva toda la campaña mostrándose esquivo. El líder de Vox evita revelar sus planes en caso de llegar al Gobierno. <a href="https://www.publico.es/tremending/estupor-video-abascal-reconoce-sabe-hay-pensiones-senor-quiere-presidir-nuestro-pais.html">"No sé lo que hay que hacer. Tampoco soy un economista", confesó el pasado 3 de noviembre cuando le preguntaron por el tema</a>. Al día siguiente, fue un poco más conciso y afirmó: "Las pensiones hay que pagarlas como sea". En cualquier caso, Abascal resta importancia a la revalorización: "Los mayores no son esos egoístas a los que pinta el Gobierno obsesionados por unos euros más de pensión", dijo el pasado 14 de noviembre.</p>
+    <p>La indefinición de Vox crea mucha incertidumbre y mucha confusión. Sobre todo porque la ultraderecha lleva muchos años poniendo en cuestión la viabilidad del sistema de pensiones. Vox ya defendía en 2018 "un modelo mixto de capitalización y reparto".</p>
+    <p>El PP, por contra, intenta mostrarse más firme de lo que se muestra en su programa electoral, <a href="https://www.publico.es/economia/impuestos-ladrillo-pensiones-aire-pistas-dejando-guru-economico-feijoo.html">aunque sus dirigentes dejan traslucir cierta desconfianza en la viabilidad de las pensiones</a>. Si Abascal se ha mostrado tibio tras las palabras de Figaredo, Alberto Núñez Feijóo, presidente del PP, no tardó ni un día en salir a apagar <a href="https://www.publico.es/politica/pp-advierte-sistema-pensiones-colapsar-anuncia-medidas-valientes-reformarlo.html">el incendio que provocó Ester Muñoz, su portavoz en el Congreso, tras decir en otra entrevista que el sistema de pensiones iba a "colapsar"</a>. "Hay gente trabajando que no cubre la gente que está cobrando pensión. Tenemos que ser valientes y entender que el modelo hay que cambiarlo", aseguró Muñoz. La polémica fue de tal calibre que <a href="https://www.publico.es/tremending/inda-aconseja-pp-mienta-sobre-pensiones-campana-electoral-callen-formen-gobierno.html">desde algunos sectores de la ultraderecha mediática recomendaron a los dirigentes del PP callarse</a> y ocultar sus intenciones hasta formar Gobierno. <a href="https://www.publico.es/politica/feijoo-intenta-zanjar-polemica-abierta-pp-sobre-pensiones-son-innegociables.html">"Las pensiones son innegociables", afirmó con contundencia Feijóo</a> al día siguiente para taponar la sangría. Desde entonces, el candidato del PP ha puesto todo el énfasis que ha podido a la hora de decir que va a garantizar las pensiones, pero también que hay que reformarlas. En este sentido, también ha afirmado —en una entrevista en la cadena Ser— que buscará "un sistema de viabilidad", aunque no termina de concretar cuál. </p>
+    <p>A Feijóo le falta especificar cómo pretende financiar el sistema público de pensiones ante el aumento del número de jubilados en la próxima década y qué medidas concretas adoptará para garantizar las pensiones de los jóvenes sin aumentar la carga sobre los trabajadores.</p>
+    <p>La izquierda intenta atacar al PP por el flanco de las pensiones y duda abiertamente de sus intenciones. Frente a la falta de claridad del PP y Vox, <a href="https://www.publico.es/politica/sanchez-promete-blindar-pensiones-aborto-constitucion-poner-impuestos-grandes-propietarios-viviendas.html">Pedro Sánchez propone blindar las pensiones en la Constitución</a>. Las sospechas y las dudad surgen por esa insistencia de la derecha en cuestionar la viabilidad de las pensiones, asumiendo <a href="https://www.publico.es/economia/discurso-neoliberal-pensiones-publicas-acumula-45-anos-pronosticos-fallidos.html">ese discurso neoliberal</a>, hasta cierto punto catastrofista, patrocinado por bancos, aseguradoras y fondos de pensiones que augura un final del sistema público que nunca termina de llegar solo para defender sus intereses económicos. El economista Juan Torres, catedrático jubilado en la Universidad de Sevilla, sostiene que ese discurso está plagado de "mentiras". Convencido de que el próximo 29 de noviembre el futuro de las pensiones públicas está en juego, Torres ha publicado en <a href="https://www.youtube.com/shorts/HRE4HrIuKME">su canal de Youtube </a>varios vídeos en los que explica cómo se construye "este colosal engaño": "Primero te asustan, luego te hacen sentir culpable, después te desarman y, al final, te venden el remedio. El remedio lo vende quién fabricó el problema". </p>
+  </body>
+</html>]]></content:encoded>
+      <guid isPermaLink="false">08c7d9607742647caaec2184adb3bd9c6a2f676a</guid>
+      <enclosure url="https://www.publico.es/files/og_thumbnail/uploads/2026/11/19/6afed986f0730.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interferencias judiciales en tiempos electorales</title>
+      <link>https://www.publico.es/opinion/columnas/interferencias-judiciales-tiempos-electorales.html</link>
+      <description>El fenómeno no es nuevo. Se pueden encontrar antecedentes en anteriores elecciones.</description>
+      <content:encoded><![CDATA[<html>
+  <body>
+    <p>Opinión</p>
+    <h1>Interferencias judiciales en tiempos electorales</h1>
+    <p>El fenómeno no es nuevo. Se pueden encontrar antecedentes en anteriores elecciones. Rompe con una tradición que la Sala Segunda del Tribunal Supremo había instaurado de manera informal para no interferirse, salvo casos de urgente necesidad, en el debate político que suscita inevitablemente la convocatoria de unas elecciones. Es cierto que nunca se plasmó en una norma, ni siquiera se debatió en un pleno no jurisdiccional. La costumbre nació de unas conversaciones previas que suscitaron el consenso mayoritario. Era aconsejable prescindir de la práctica de diligencias judiciales que en nada alteraban la tramitación ordinaria de una causa penal. Se transmitía un mensaje de neutralidad y objetividad que reforzaba la confianza de la ciudadanía en el Poder Judicial. Lamentablemente los buenos hábitos se han perdido y nos encontramos, en el momento presente, con numerosas actuaciones judiciales, algunas muy próximas al día de la apertura de los colegios electorales. Los eventos judiciales anunciados para los días previos al 29N son unidireccionales. Es decir, afectan a casos relacionados con el PSOE o de manera directa o indirectamente contra el Gobierno, actualmente en funciones.</p>
+    <p>El juez Ismael Moreno de la Audiencia Nacional que mantiene abierta una investigación sobre las cuentas del PSOE, en la que existe una pieza secreta, envió, el pasado día 12, a unos agentes de la UCO al Tribunal de Cuentas para buscar información sobre los movimientos contables del Partido Socialista. ¿Era necesario? ¿Valoró si su decisión cuestionaba la credibilidad de una institución constitucional a la que colocaba ante la opinión pública como sospechosa de corrupción y complicidad?</p>
+    <p>La jueza María Tardón, también de la Audiencia Nacional, ha decidido que el ancestral litigio sobre la soberanía de las plazas, hoy Ciudades autónomas, de Ceuta y Melilla, que ha desembocado en la invasión de Ceuta por una masa humana que fija en 85.000 personas, se puede considerar como delito contra la paz y la independencia del Estado que, en último término, solo puede cometer el presidente del Gobierno. Sin motivo que lo justifique había citado para el día 18 como imputado al delegado del Gobierno en Ceuta. En principio la defensa de los funcionarios y altos cargos corresponde al Abogado del Estado, pero en este caso era incompatible porque ejercía también la acusación. Se tuvo que confiar la defensa a un letrado de libre designación que, como es lógico, solicitó un tiempo para estudiar el caso. Hubiera resultado escandaloso fijar la fecha dos o tres días antes de la cita electoral. En consecuencia, la pospuso al día 30 de noviembre, en plena resaca electoral, pero finalmente se ha señalado para el día 1 de diciembre. Espero que no estemos inmersos en una refriega por denuncia de fraude electoral por parte de las derechas extremas.</p>
+    <p>Por su parte el juez Calama que investiga al expresidente Rodríguez Zapatero, por el préstamo a la Compañía aérea Plus Ultra y otras actividades que considera delictivas, ha citado a la vicepresidenta tercera del Gobierno, Sara Aagesen como testigo el próximo día 23, junto con altos cargos de Patrimonio Nacional, Hacienda, la SEPI, Industria, Transición Ecológica, Transportes y Correos. Todo un festival institucional. La vicepresidenta formaba parte del Consejo de la SEPI que dio el visto bueno a la operación, junto con otras compañías aéreas.</p>
+    <p>El juez Santiago Pedraz ha citado para el 24 de noviembre a Cintia Rocho que, al parecer, forma parte de un clan relacionado con la droga para declarar sobre un plan para eliminar a la jueza de Badajoz que llevaba el caso del hermano del presidente del Gobierno. Salvo que se trate de un delirio mental de Leire Diez no me parece, a primera vista, que existan pruebas que acrediten tan descabellada iniciativa.</p>
+    <p>El Tribunal de Cuentas ha abierto, hace unas horas, un expediente de investigación ante las denuncias de los sempiternos "acusadores populares" (conocidos en la antigua Grecia como sicofantes) para comprobar si al hermano del Presidente del Gobierno se le habían pagado actividades que no había realizado. Por cierto, que esta vía les fue sugerida de forma directa por los magistrados de la Audiencia Provincial de Badajoz que habían dictado la sentencia condenatoria que está pendiente de recurso.</p>
+    <p>Es evidente que nos encontramos ante actuaciones judiciales que podían posponerse sin riesgo alguno para la investigación. Un observador neutral puede llegar a la conclusión de que los requerimientos judiciales pueden comprometer la imagen de la imparcialidad, objetividad y ecuanimidad que debe trasmitir un juez o jueza en el ejercicio de sus funciones.</p>
+    <p>En todo caso estas decisiones judiciales, en plena campaña electoral, se deben motivar y explicar a la opinión pública. La motivación es un imperativo constitucional que con frecuencia se soslaya. Se pone el énfasis en la independencia, que está garantizada, y se olvida el valor crucial de la imparcialidad y la razonabilidad.</p>
+    <p>En este texto se recuerda que los miembros de la judicatura han de comportarse y ejercer sus derechos de forma que no comprometan o perjudiquen la percepción que, en un Estado democrático y de Derecho, tiene la sociedad sobre la independencia del Poder Judicial. La imparcialidad impone también el deber de evitar conductas que, dentro o fuera del proceso, puedan ponerla en entredicho y perjudicar la confianza pública en la justicia.</p>
+    <p>Insistiendo sobre la necesidad de explicar aquellas resoluciones que tienen un fuerte impacto político o social. El Código ético recuerda que, en sus relaciones con los medios de comunicación pueden y deben desempeñar una valiosa función pedagógica y de transparencia sobre las razones que los han llevado a la adopción de una determinada medida que puede tener impacto sobre la vida política.</p>
+    <p>De aquí al momento en que este artículo sea publicado y sin duda hasta el día de las elecciones es posible que surjan nuevas iniciativas judiciales que se interfieran de modo deliberado en el debate electoral. Creo que el Consejo General del Poder Judicial, que es el órgano encargado de velar por el cumplimiento del Código Ético, podía pronunciarse sobre estas prácticas que comprometen la credibilidad y la confianza de la sociedad en la imparcialidad que es un complemento inseparable de la legitimidad del Poder Judicial.</p>
+  </body>
+</html>]]></content:encoded>
+      <guid isPermaLink="false">c4d367e3cc5838ecba0c3373540714126e2e5cb3</guid>
+      <enclosure url="https://www.publico.es/files/og_thumbnail/uploads/2026/11/18/6afd64d75268a.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sánchez mantiene un perfil moderado ante un Feijóo que le ataca con Puigdemont y los muertos del AVE</title>
+      <link>https://www.publico.es/politica/sanchez-mantiene-perfil-moderado-feijoo-le-ataca-puigdemont-muertos-ave.html</link>
+      <description>En el PSOE ponen en valor que Sánchez no haya entrado en las provocaciones de Feijóo, logrando así mostrar un perfil moderado que pueda seducir al electorado indeciso de centro....</description>
+      <content:encoded><![CDATA[<html>
+  <body>
+    <h1>Sánchez mantiene un perfil moderado ante un Feijóo que le ataca con Puigdemont y los muertos del AVE</h1>
+    <p>En el PSOE ponen en valor que Sánchez no haya entrado en las provocaciones de Feijóo en su intento de seducir al electorado indeciso de centro con sus intervenciones sin estridencias.</p>
+    <p>Ecuador de la campaña electoral. Pedro Sánchez, a la izquierda de las pantallas; Alberto Núñez Feijóo, a la derecha. Millones de espectadores frente a los televisores. Traje tostado, camisa azul clara y corbata fucsia, con reminiscencias a Sumar, para el socialista; traje azul marino, sobre camisa clara y corbata verde-vox, el popular. Algo más de hora y media de cara a cara moderada por la periodista María Casado. El gran debate de la campaña, organizado por la Academia de Televisión para todos los canales televisivos y medios digitales, rebajaba la tensión del encuentro vivido en 2023 entre ambos dirigentes. El duelo dialéctico ha sido, en esta ocasión, menos emocional y temperamental que hace tres años y medio.</p>
+    <p>Y eso que Feijóo arrancaba el duelo a la ofensiva, pisando charcos y lanzando barro sobre la mesa. El líder del PP empezaba leyendo sus apuntes y tomando como referencia a la figura de, nada más y nada menos, Carles Puigdemont. El expresident de la Generalitat de Catalunya era el <a href="https://www.publico.es/politica/puigdemont-entra-campana-liquida-equidistancia-junts.html">protagonista de la jornada del jueves </a>tras la publicación en El Mundo de una entrevista en la que se despachaba con dureza sobre la personalidad de Sánchez y desvelaba cuestiones privadas de las negociaciones entre socialistas y juntaires en Bruselas sobre la investidura o la amnistía, entre otras cuestiones. De desearle la prisión, a tomar, el PP, a Puigdemont como punta de lanza de su argumento de crítica a Sánchez.</p>
+    <p>Ya desde el comiendo del encuentro dialéctico se percibían las diferentes estrategias que proponían ambos candidatos para la noche. Un Feijóo al ataque, duro, no dudaba en traer a colación las víctimas de los accidentes ferroviarios como arma política para arrojar a su adversario. El gallego demostraba ganas, pero también unos nervios que no concuerdan con quien va primero en las encuestas, las cuales aseguran que lograría gobernar con el apoyo de Vox.</p>
+    <p>Así, Feijóo enumeraba los casos de corrupción del PSOE –Ábalos, Koldo o Santos Cerdán-, al entorno del presidente -su mujer y hermano- y algunas de las grandes crisis de la legislatura -la DANA, el apagón, los accidentes de Adamuz y Urda o Ceuta- en el primer minuto del debate. "España merece un presidente y él no lo es", decía el popular en referencia a Sánchez. El socialista, por su parte, comenzaba reconociendo ante la ciudadanía que este Gobierno "no ha sido perfecto". "He cometido errores, he confiado en gente que no debía, no he solucionado aún el problema de la vivienda, hemos sufrido dos tragedias ferroviarias...", recordaba.</p>
+    <p>Pronto el debate se focalizaba en vivienda, el primer problema para la ciudadanía según el CIS y el motivo que dio lugar al adelanto electoral. Sánchez sacaba pecho de que "el Gobierno ha creado un millón de viviendas, de las cuales el 13% son viviendas protegidas", y destacaba las medidas impulsadas en materia de alquileres: "Nosotros hemos aumentado la duración de los alquileres, por eso ha bajado la oferta, porque los contratos son mucho más estables". Y añadía: "Lo que estamos proponiendo es gravar a los fondos buitres y a los grandes tenedores".</p>
+    <h2>Sánchez saca pecho de los datos macroeconómicos</h2>
+    <p>Ya es un tópico esta campaña que Sánchez alardee de los buenos datos macroeconómicos españoles. Este debate no ha sido menos. "En un tiempo tan turbulento, el modelo español funciona, la vía socialdemócrata funciona", aseguraba, explicando: "Se puede crear empleo y subir el SMI al 75%, se puede revalorizar las pensiones, hemos demostrado que podemos reformar el Estado del bienestar y al tiempo consolidar las cuentas públicas [...] Nuestra propuesta es bajar los impuestos a dos millones de familias y subírselos a los fondos buitre". "¿Dónde está el dinero de los españoles?", se ha preguntado Feijóo en voz alta, asegurando que el Gobierno ha gastado "más que nunca", ha aumentado la deuda pública y ha recibido "miles de millones" en fondos europeos, recaudando "220.000 millones de euros más en impuestos" que en 2018. La idea-fuerza del PP de esta campaña, reiterar que la situación del país es caótica, ha estado muy presente en el argumentario del gallego durante el cara a cara de este jueves. "Es el único presidente de la democracia sin Presupuestos en toda la legislatura", subrayaba Feijóo.</p>
+    <p>El líder del PP también afeó al socialista la gestión del Gobierno en materia ferroviaria y señaló los dos accidentes de este año, en Adamuz y Urda. Por su parte, Sánchez pedía perdón a las víctimas. "Por supuesto que lo pido, porque es un dolor que me llevaré conmigo", ha asegurado. Más adelante, era el socialista el que cuestionaba a Feijóo sobre cómo piensa hacer frente a un gasto del 5% en Defensa.</p>
+    <h2>Feijóo se crece en el bloque sobre corrupción</h2>
+    <p>Cuando llegaba el momento de debatir sobre la corrupción, Feijóo aprovechaba para intentar acorralar al líder socialista. "Se corrompían hasta en la pandemia, montaban ustedes orgías", criticaba Feijóo, acusando al dirigente socialista de "pagar prostitutas con dinero público". "Hasta los jubilados en su partido son presuntos corruptos", dijo, para señalar al expresidente Zapatero, asegurando que el PSOE "tiene más imputados que diputados". "A usted le investigan", enumeraba Feijóo, "los juzgados de Madrid, Badajoz, Tenerife, Teruel, la Fiscalía Europea, el Tribunal Supremo...". "No hay lawfare en España, es que ustedes han delinquido mucho", ironizaba el líder conservador. Sánchez recordaba, por su parte: "No voy a aceptar lecciones del partido más corrupto, que es el PP".</p>
+    <p>Otro momento de confrontación fue el bloque en el que se trataba la cuestión migratoria y la política internacional. Sánchez sacaba pecho de su postura en la cuestión migratoria, y se exhibía como un defensor de los derechos humanos frente a la oleada ultraderechista y antinmigratoria. "¿Qué de bueno han traído al mundo Trump, Milei o Bolsonaro? Lo que no lo queramos para el mundo, no lo queramos para el país", advertía. El socialista también presumía de la postura de España frente a la guerra en Ucrania, en la de Irán o ante el "genocidio" en Gaza por parte de Israel.</p>
+    <p>Por su parte, Feijóo aprovechaba para sacar a colación la crisis de Ceuta del pasado verano: "Echo de menos que diga que usted no depende de Rabat". El gallego denunciaba que en julio España vivió "por primera vez en su historia" una "invasión" de "más de 100.000 personas". En este punto, Feijóo afeaba a Sánchez el cambio de postura respecto al Sáhara: "¿Qué le debe usted a Marruecos?".</p>
+    <h2>Las mentiras del debate</h2>
+    <p>Desde Moncloa, critican que el presidente del PP ha embarrado y mentido durante el duelo en la Academia de Televisión. Fuentes de La Moncloa desmienten algunas afirmaciones de Feijóo. El líder del PP aseguraba: "El Gobierno prometió 184.000 viviendas. Sólo se han entregado 540 viviendas, según en la web del Ministerio". Pero fuentes del Gobierno sostienen que se han movilizado 120.000 viviendas asequibles y rehabilitado más de 570.000. Se han completado 36.000 viviendas. La construcción de vivienda protegida se encuentra en máximos de los últimos 14 años.</p>
+    <p>De igual manera, el gallego aseguraba que "los salarios no suben en España". Desde La Moncloa, por el contrario, se señala que el salario medio creció de 2018 a 2024 un 23%, cuatro puntos por encima de la inflación. Los salarios que sí dependen del Gobierno, los de los empleados públicos, han subido un 23,9% en nueve años (2019-2027) frente al 3,7% que los subió el Gobierno del PP en siete años (2012-2018).</p>
+    <p>En la calle Génova también acusan a Sánchez de haber mentido y hacían pública en mitad del debate una página web (<a href="https://sanchezmiente.com/">sanchezmiente.com</a>) en la que, en directo, iban publicando supuestas mentiras del presidente del Gobierno.</p>
+    <p>Tras noventa minutos de debate, en el que Sánchez mantuvo un tono sosegado pese a algunas provocaciones del candidato popular, llegaban los minutos finales. Sánchez, en su minuto de oro, se dirigía a los telespectadores recuperando la frase de José María Aznar de "quien pueda hacer que haga", para incitar a la movilización: "Quien pueda votar, que vote. Vota con toda tu alma al Partido Socialista". Antes fue el turno de Feijóo, que iniciaba su alegato final contraponiéndose a Sánchez: "Yo no soy de manual, no bailo en los mítines ni me gusta la política espectáculo". Frente a eso, aseguraba el gallego: "Sé gestionar crisis y he gobernado; eso es lo que necesita España". "Yo sí cumplo", concluía el líder del PP.</p>
+  </body>
+</html>]]></content:encoded>
+      <guid isPermaLink="false">f4e861560c25c3b42335b46dc9741b73abe3059d</guid>
+      <enclosure url="https://www.publico.es/files/og_thumbnail/uploads/2026/11/19/6aff753d749d6.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sánchez da la vuelta al lema de Aznar para llamar a la participación: "Quien pueda votar, que vote"</title>
+      <link>https://www.publico.es/politica/partidos/sanchez-da-vuelta-lema-aznar-llamar-participacion-pueda-votar-vote.html</link>
+      <description>En Moncloa y Ferraz destacan que el debate ha reflejado la "buena política frente a la mala educación de Feijóo" y ponen en valor el "buen tono" del líder socialista....</description>
+      <content:encoded><![CDATA[<html>
+  <body>
+    <h1>Sánchez da la vuelta al lema de Aznar para llamar a la participación: "Quien pueda votar, que vote"</h1>
+    <ul>
+      <li>
+        <p>En Moncloa y Ferraz destacan que el debate ha reflejado la "buena política frente a la mala educación de Feijóo" y ponen en valor el "buen tono" del líder socialista.</p>
+      </li>
+      <li>
+        <p>Reconocen abiertamente en el equipo directo de Sánchez que el líder socialista "no ha ido a por el voto convencido, sino a por los indecisos del PSOE". Es decir, los "que están en su flanco más moderado".</p>
+      </li>
+    </ul>
+    <p>"Buena política contra mala educación". De esta manera resumían en la cúpula de Moncloa y Ferraz lo ocurrido en <a href="https://www.publico.es/politica/debate-electoral-sanchez-feijoo-directo.html">el debate 'cara a cara' televisivo</a> entre Pedro Sánchez y Alberto Núñez Feijóo. Tal y como anticipaban las fuentes <a href="https://www.publico.es/politica/partidos/sanchez-asume-feijoo-embarrar-cara-cara-2023-sabemos-vietnam.html">consultadas esta semana</a>, consideran en la cúpula socialista que su pronóstico de que el líder del PP iba a "embarrar" el debate se ha cumplido. Los socialistas consultados por Público destacan especialmente el "minuto de oro" final del presidente del Gobierno. En esta última intervención quiso resignificar la famosa frase de José María Aznar, "el que pueda hacer que haga", para llamar a una movilización masiva: "Quien pueda votar que vote". </p>
+    <p>El debate comenzó con una intervención de Sánchez en la que apeló a "que España avance" y "no que avance el pasado". Durante los diferentes bloques temáticos fueron varias las ocasiones en las que el líder del Ejecutivo mencionó a Feijóo junto a Santiago Abascal, líder de Vox, o la internacional ultra. El jueves que viene se celebrará un debate a cuatro con la presencia también de Ada Colau. "Lo que no queremos para el mundo no lo queremos para nuestro país. De eso van las elecciones", ha dicho Sánchez tras mencionar a líderes internacionales como Javier Milei, Donald Trump o Flavio Bolsonaro.</p>
+    <p>"Tienen el dinero, tienen el control de la mayoría de los medios de comunicación. Tienen también el apoyo del hombre más poderoso del mundo y de su cohorte de tecnoligarcas. Pero se equivocan porque en democracia el poder lo tienes tú, está en tu mano, y ellos lo saben y les molesta", ha destacado Sánchez en su intervención final.</p>
+    <p>En su alegato por la movilización, Sánchez ha destacado que esos poderes quieren que el próximo 29 de noviembre la gente no vaya a votar. "Somos hoy una España que es ejemplo de dignidad en el mundo, una España que es la que más avanza de toda Europa, una España que no se doblega ante los intereses de nadie, por muy poderosos que estos sean. Ahora ha llegado el momento de perseverar en ese avance. Dijeron, quien pueda hacer que haga. Yo lo que te pido es quien pueda votar, que vote, vota con toda tu alma al Partido Socialista", ha concluido.</p>
+    <p>En materia de vivienda, Sánchez ha reconocido que necesitan "hacer mucho más" y que en ese sentido "tienen razón los ciudadanos". "Queremos construir vivienda pública, rehabilitar y regular", ha resumido el líder socialista, que ha hecho una defensa de las medidas aprobadas en el último decreto que las tres derechas tumbaron y que dieron lugar a la convocatoria electoral anticipada. A Feijóo le intentó afear por qué votaban en contra de medidas como esa, por qué hacían una "oposición destructiva contraria al sentido común".</p>
+    <p>Por lo demás, el presidente del Gobierno ha sacado pecho de los datos económicos de esta legislatura, medidas como las subidas de salario y ha identificado, en este sentido, al PP con la patronal.</p>
+    <p>El líder socialista ha pedido perdón hasta en dos ocasiones. Por un lado a las víctimas del accidente de Urda, en Toledo. "Me hago cargo", ha señalado. Por otro, "por los casos de corrupción". "Somos gente limpia e íntegra que hemos actuado con total contundencia", ha dicho. En ese punto, en todo caso, ha añadido que</p>
+    <p>"Mucho trabajo le va a dar a los verificadores", ironizó Sánchez ya desde ese primer bloque. Moncloa y Ferraz difundieron casi en directo lo que consideraron "mentiras" del líder del PP. Por ejemplo, respecto a los datos erróneos de vivienda pública movilizada por el Gobierno o que haya bajado la oferta de alquiler en Barcelona.</p>
+    <p>Sánchez ha repetido en innumerables ocasiones durante la noche frases como "¿me deja hablar?" o "¿me permite terminar?" ante las constantes interrupciones de Feijóo. Pero el líder socialista ha mantenido en todo momento cierta calma con un rostro casi impasible ante la actitud del dirigente gallego. Es uno de los puntos que más han destacado las fuentes socialistas tras el debate. Porque ante esa "agresividad", dicen, "Sánchez ha mostrado un control fantástico del tono y el mensaje".</p>
+    <p>En Moncloa ahondan en la estrategia usada, que denominan de la "refutación con altura" y que consiste en "mantener la calma ante la agresividad y responder a las falsedades con hechos, claridad y firmeza". "Su objetivo es bajar la temperatura del debate y elevar la exigencia de pruebas", añaden. Y recuerdan que esta fue, por ejemplo, la estrategia que usó el ex presidente de EEUU Barack Obama para ganar a John McCain en 2008.</p>
+    <h2>A por el voto moderado</h2>
+    <p>Reconocen abiertamente en el equipo directo de Sánchez que el líder socialista "no ha ido a por el voto convencido, sino a por los indecisos del PSOE". Es decir, los "que están en su flanco más moderado" y que lo que "esperan ver es precisamente eso: un presidente serio, institucional, que conoce los temas y que no necesita mentir o caer en la hipérbole para defenderlos".</p>
+    <p>"La contención de Sánchez ha ayudado a evidenciar la agresividad de Feijoo y a centrar a Sanchez. Y Feijoo hoy no ha parado de interrumpir, dar golpes bajos, mentir y protestar por unas reglas del debate que su propio partido había pactado", insisten los socialistas.</p>
+    <p>En la sede del PSOE de Ferraz se dieron cita más de un centenar de militantes socialistas para ver el debate en pantalla gigante. La presidenta del PSOE, Cristina Narbona, o el adjunto a la Secretaría de Organización, Borja Cabezón, fueron los dirigentes de la Ejecutiva que siguieron la emisión en la sede.</p>
+    <p>Y tras el debate fue el propio Sánchez, como ya hiciera en 2023, quien acudió a la sede de su partido. "Qué bien estar rodeado de gente con buena educación", ha señalado. Para Sánchez, el debate ha reflejado "dos modelos de país". Uno con "conquistas sociales" y enfrente "todo reproches, ninguna propuesta" y la "involución".</p>
+    <p>"Nos quedan muy pocos días de campaña. Hay que sudar esa camiseta que lleváis y tenemos que hacerlo, como he dicho en muchos mítines, hasta el último minuto y la última papeleta en el último colegio electoral. Porque yo creo que después del debate de hoy estamos un paso más cerca de ganar las elecciones y volver a gobernar cuatro años más. Así que a trabajar el tiempo que nos resta de campaña", ha añadido.</p>
+  </body>
+</html>]]></content:encoded>
+      <guid isPermaLink="false">8c9db628fab79ea1a8b5a0470d4f8e7e71c42bd5</guid>
+      <enclosure url="https://www.publico.es/files/og_thumbnail/uploads/2026/11/19/6aff695b4b4f3.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
